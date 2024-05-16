@@ -1,6 +1,6 @@
 <?php
 session_start();
-$project_location = "/BrainyBuddies";
+$project_location = "/brainybuddies";
 $me = $project_location;
 $request = $_SERVER['REQUEST_URI'];
 
