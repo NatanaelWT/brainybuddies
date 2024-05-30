@@ -2,7 +2,7 @@
 include "function/crud.php";
 if ($_SERVER['REQUEST_METHOD'] == "POST") {
     include "function/func.php";
-    update2("materi", "nama_materi", $link[3], "link_youtube", $_POST['link_youtube'], "materi", $_POST['materi']);
+    update2("materi", "nama_materi", str_replace("%20", " ", $link[3]), "link_youtube", $_POST['link_youtube'], "materi", $_POST['materi']);
 }
 include "views/user/partials/head.php";
 $temp = readWhere("materi", "nama_materi", str_replace("%20", " ", $link[3]));
