@@ -24,7 +24,7 @@
 <footer>
     <div class="container">
         <div class="row">
-            <div class="col-lg-6">
+            <div class="col-lg-4">
                 <div class="widget">
                     <h5 class="widgetheading">Our Contact</h5>
                     <address>
@@ -38,7 +38,7 @@
                     </p>
                 </div>
             </div>
-            <div class="col-lg-6">
+            <div class="col-lg-4">
                 <div class="widget">
                     <h5 class="widgetheading">Quick Links</h5>
                     <ul class="link-list">
@@ -50,17 +50,17 @@
                     </ul>
                 </div>
             </div>
-            <!-- <div class="col-lg-3">
+            <div class="col-lg-4">
                 <div class="widget">
-                    <h5 class="widgetheading">Latest posts</h5>
+                    <h5 class="widgetheading">Fitur</h5>
                     <ul class="link-list">
-                        <li><a href="#">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</a></li>
-                        <li><a href="#">Pellentesque et pulvinar enim. Quisque at tempor ligula</a></li>
-                        <li><a href="#">Natus error sit voluptatem accusantium doloremque</a></li>
+                        <li>Pembelajaran Menarik Berbasis Video</li>
+                        <li>Kuis Interaktif Untuk Anak</li>
+                        <li>Berbagai Mata Pelajaran Sesuai Kurikulum</li>
                     </ul>
                 </div>
             </div>
-            <div class="col-lg-3">
+            <!-- <div class="col-lg-3">
                 <div class="widget">
                     <h5 class="widgetheading">Recent News</h5>
                     <ul class="link-list">
