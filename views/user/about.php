@@ -138,7 +138,7 @@ include "views/user/partials/head.php";
 
 					<!-- Heading -->
 					<div class="block-heading-six">
-						<h4 class="bg-color">Our Team</h4>
+						<h4 class="bg-color">Tim Kami</h4>
 					</div>
 					<br>
 
