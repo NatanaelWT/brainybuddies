@@ -47,22 +47,22 @@ include "views/user/partials/head.php";
                     <div class="col-sm-4 info-blocks">
                         <i class="icon-info-blocks fa fa-bell-o"></i>
                         <div class="info-blocks-in">
-                            <h3>Awesome Design</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quae porro consequatur aliquam, incidunt</p>
+                            <h3>Desain Menarik</h3>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dolor sit amet anak belajar sambil bermain.</p>
                         </div>
                     </div>
                     <div class="col-sm-4 info-blocks">
                         <i class="icon-info-blocks fa fa-hdd-o"></i>
                         <div class="info-blocks-in">
-                            <h3>FontAwesome</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quae porro consequatur aliquam, incidunt</p>
+                            <h3>Font Keren</h3>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Menggunakan font yang menarik untuk anak-anak.</p>
                         </div>
                     </div>
                     <div class="col-sm-4 info-blocks">
                         <i class="icon-info-blocks fa fa-lightbulb-o"></i>
                         <div class="info-blocks-in">
                             <h3>Bootstrap</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quae porro consequatur aliquam, incidunt</p>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Memudahkan tampilan responsif dan menarik.</p>
                         </div>
                     </div>
                 </div>
@@ -74,22 +74,22 @@ include "views/user/partials/head.php";
                     <div class="col-sm-4 info-blocks">
                         <i class="icon-info-blocks fa fa-code"></i>
                         <div class="info-blocks-in">
-                            <h3>SEO Ready</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quae porro consequatur aliquam, incidunt</p>
+                            <h3>Siap untuk SEO</h3>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mudah ditemukan di mesin pencari.</p>
                         </div>
                     </div>
                     <div class="col-sm-4 info-blocks">
                         <i class="icon-info-blocks fa fa-compress"></i>
                         <div class="info-blocks-in">
-                            <h3>Fully Responsive</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quae porro consequatur aliquam, incidunt</p>
+                            <h3>Responsif Penuh</h3>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tampilan yang bisa disesuaikan di berbagai perangkat.</p>
                         </div>
                     </div>
                     <div class="col-sm-4 info-blocks">
                         <i class="icon-info-blocks fa fa-html5"></i>
                         <div class="info-blocks-in">
                             <h3>CSS3 + HTML5</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quae porro consequatur aliquam, incidunt</p>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Menggunakan teknologi web terbaru untuk pengalaman terbaik.</p>
                         </div>
                     </div>
                 </div>
