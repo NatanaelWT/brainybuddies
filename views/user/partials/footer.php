@@ -24,21 +24,21 @@
 <footer>
     <div class="container">
         <div class="row">
-            <div class="col-lg-3">
+            <div class="col-lg-6">
                 <div class="widget">
                     <h5 class="widgetheading">Our Contact</h5>
                     <address>
-                        <strong>Your School Name</strong><br>
-                        JC Main Road, Near Silnile tower<br>
-                        Pin-21542 NewYork US.
+                        <strong>BrainyBuddies</strong><br>
+                        Jl Buddies<br>
+                        Pin-21542 Surabaya.
                     </address>
                     <p>
-                        <i class="icon-phone"></i> (123) 456-789 - 1255-12584 <br>
-                        <i class="icon-envelope-alt"></i> email@domainname.com
+                        <i class="icon-phone"></i> (+62) 821-5811-4721 <br>
+                        <i class="icon-envelope-alt"></i> BrainyBuddies@buddies.com
                     </p>
                 </div>
             </div>
-            <div class="col-lg-3">
+            <div class="col-lg-6">
                 <div class="widget">
                     <h5 class="widgetheading">Quick Links</h5>
                     <ul class="link-list">
@@ -50,7 +50,7 @@
                     </ul>
                 </div>
             </div>
-            <div class="col-lg-3">
+            <!-- <div class="col-lg-3">
                 <div class="widget">
                     <h5 class="widgetheading">Latest posts</h5>
                     <ul class="link-list">
@@ -70,7 +70,7 @@
                     </ul>
                 </div>
             </div>
-        </div>
+        </div> -->
     </div>
     <div id="sub-footer">
         <div class="container">

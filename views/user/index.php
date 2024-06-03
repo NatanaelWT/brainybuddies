@@ -71,7 +71,7 @@ include "views/user/partials/head.php";
                         <div class="col-md-4 col-sm-6 wow fadeInUp animated" data-wow-duration="300ms" data-wow-delay="100ms" style="visibility: visible; -webkit-animation-duration: 300ms; -webkit-animation-delay: 100ms;">
                             <div class="media service-box">
                                 <div class="pull-left">
-                                    <i class="fa fa-users"></i>
+                                <i class="fa fa-leanpub"></i>
                                 </div>
                                 <div class="media-body">
                                     <h4 class="media-heading">IPA</h4>
@@ -83,11 +83,11 @@ include "views/user/partials/head.php";
                         <div class="col-md-4 col-sm-6 wow fadeInUp animated" data-wow-duration="300ms" data-wow-delay="200ms" style="visibility: visible; -webkit-animation-duration: 300ms; -webkit-animation-delay: 200ms;">
                             <div class="media service-box">
                                 <div class="pull-left">
-                                    <i class="fa fa-trophy"></i>
+                                <i class="fa fa-leanpub"></i>
                                 </div>
                                 <div class="media-body">
                                     <h4 class="media-heading">IPS</h4>
-                                    <p>Morbi vitae tortor tempus, placerat leo et, suscipit lectus. Phasellus ut euismod massa, eu eleifend ipsum.</p>
+                                    <p>Memahami dinamika masyarakat, perkembangan peradaban, interaksi antar individu dan kelompok dalam konteks sosial.</p>
                                 </div>
                             </div>
                         </div><!--/.col-md-4-->
@@ -95,11 +95,11 @@ include "views/user/partials/head.php";
                         <div class="col-md-4 col-sm-6 wow fadeInUp animated" data-wow-duration="300ms" data-wow-delay="300ms" style="visibility: visible; -webkit-animation-duration: 300ms; -webkit-animation-delay: 300ms;">
                             <div class="media service-box">
                                 <div class="pull-left">
-                                    <i class="fa fa-user-plus"></i>
+                                <i class="fa fa-leanpub"></i>
                                 </div>
                                 <div class="media-body">
                                     <h4 class="media-heading">PPKN</h4>
-                                    <p>Morbi vitae tortor tempus, placerat leo et, suscipit lectus. Phasellus ut euismod massa, eu eleifend ipsum.</p>
+                                    <p>Membentuk karakter yang berakhlak mulia, berwawasan dan memahami tanggung jawab sebagai warga negara.</p>
                                 </div>
                             </div>
                         </div><!--/.col-md-4-->
@@ -107,11 +107,11 @@ include "views/user/partials/head.php";
                         <div class="col-md-4 col-sm-6 wow fadeInUp animated" data-wow-duration="300ms" data-wow-delay="400ms" style="visibility: visible; -webkit-animation-duration: 300ms; -webkit-animation-delay: 400ms;">
                             <div class="media service-box">
                                 <div class="pull-left">
-                                    <i class="fa fa-newspaper-o"></i>
+                                <i class="fa fa-leanpub"></i>
                                 </div>
                                 <div class="media-body">
                                     <h4 class="media-heading">Bahasa Indonesia</h4>
-                                    <p>Morbi vitae tortor tempus, placerat leo et, suscipit lectus. Phasellus ut euismod massa, eu eleifend ipsum.</p>
+                                    <p>Bahasa Indonesia mencakup Keterampilan mendengarkan, berbicara, membaca, dan menulis dalam bahasa Indonesia</p>
                                 </div>
                             </div>
                         </div><!--/.col-md-4-->
@@ -119,11 +119,11 @@ include "views/user/partials/head.php";
                         <div class="col-md-4 col-sm-6 wow fadeInUp animated" data-wow-duration="300ms" data-wow-delay="500ms" style="visibility: visible; -webkit-animation-duration: 300ms; -webkit-animation-delay: 500ms;">
                             <div class="media service-box">
                                 <div class="pull-left">
-                                    <i class="fa fa-cubes"></i>
+                                <i class="fa fa-leanpub"></i>
                                 </div>
                                 <div class="media-body">
                                     <h4 class="media-heading">Bahasa Inggris</h4>
-                                    <p>Morbi vitae tortor tempus, placerat leo et, suscipit lectus. Phasellus ut euismod massa, eu eleifend ipsum.</p>
+                                    <p>Bahasa Inggris mencakup keterampilan mendengarkan, berbicara, membaca, dan menulis dalam bahasa Inggris</p>
                                 </div>
                             </div>
                         </div><!--/.col-md-4-->
@@ -139,7 +139,7 @@ include "views/user/partials/head.php";
                 <div class="row">
                     <div class="col-md-12">
                         <div class="aligncenter">
-                            <h2 class="aligncenter">Our Students</h2>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quae porro consequatur aliquam, incidunt eius magni provident, doloribus omnis minus temporibus perferendis nesciunt quam repellendus nulla nemo ipsum odit corrupti consequuntur possimus..
+                            <h2 class="aligncenter">Our Students</h2>BrainyBuddies berdedikasi untuk mengasuh pikiran cerdas dan menumbuhkan kecintaan pada pembelajaran. Para siswa kami adalah inti dari semua yang kami lakukan, dan kami bangga dengan prestasi dan antusiasme mereka terhadap pendidikan. Kami berusaha menciptakan lingkungan di mana mereka dapat berkembang dan mencapai potensi penuh mereka.
                         </div>
                         <br />
                     </div>
@@ -150,14 +150,13 @@ include "views/user/partials/head.php";
                         <div class="space"></div>
                     </div>
                     <div class="col-md-6">
-                        <p>Lorem ipsum dolor sit amet, cadipisicing sit amet, consectetur adipisicing elit. Atque sed, quidem quis praesentium, ut unde fuga error commodi architecto, oribus omnis minus temporibus perferendis nesciunt quam repellendus nulla nemo ipsum odit corrupti consequuntur possimus, vero mollitia velit ad consectetur. Alias, laborum excepturi nihil autem nemo numquam, ipsa architecto non, magni consequuntlaudantium culpa tenetur at id, beatae pet.</p>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. adipisicing sit amet, consectetur adipisicing elit. Atque sed, quidem quis praesentium,m deserunt.</p>
+                        <p>Di BrainyBuddies, kami menyediakan pendekatan holistik terhadap pendidikan yang mencakup keunggulan akademik, pemikiran kritis, dan pengembangan pribadi. Program kami dirancang untuk menginspirasi dan menantang siswa, membantu mereka menjadi individu yang percaya diri dan mampu.</p>
                         <ul class="list-unstyled">
-                            <li><i class="fa fa-arrow-circle-right pr-10 colored"></i> Lorem ipsum enimdolor sit amet</li>
-                            <li><i class="fa fa-arrow-circle-right pr-10 colored"></i> Explicabo deleniti neque aliquid</li>
-                            <li><i class="fa fa-arrow-circle-right pr-10 colored"></i> Consectetur adipisicing elit</li>
-                            <li><i class="fa fa-arrow-circle-right pr-10 colored"></i> Lorem ipsum dolor sit amet</li>
-                            <li><i class="fa fa-arrow-circle-right pr-10 colored"></i> Quo issimos molest quibusdam temporibus</li>
+                            <li><i class="fa fa-arrow-circle-right pr-10 colored"></i> Berdedikasi pada keunggulan akademik</li>
+                            <li><i class="fa fa-arrow-circle-right pr-10 colored"></i> Menumbuhkan kecintaan pada pembelajaran</li>
+                            <li><i class="fa fa-arrow-circle-right pr-10 colored"></i> Mendorong pemikiran kritis</li>
+                            <li><i class="fa fa-arrow-circle-right pr-10 colored"></i> Pengembangan pribadi yang holistik</li>
+                            <li><i class="fa fa-arrow-circle-right pr-10 colored"></i> Menginspirasi dan menantang siswa</li>
                         </ul>
                     </div>
                 </div>
