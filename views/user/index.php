@@ -19,15 +19,15 @@ include "views/user/partials/head.php";
                         <img src="src/img/slides/1.jpg" alt="" />
                         <div class="flex-caption container">
                             <h3>Smart Learning..</h3>
-                            <p>Doloribus omnis minus temporibus perferendis ipsa<br /> architecto non, magni quam</p>
+                            <p>Menerapkan website sebagai media pembelajaran anak</p>
                             <a href="#" class="btn btn-theme">Read More</a>
                         </div>
                     </li>
                     <li>
                         <img src="src/img/slides/2.jpg" alt="" />
                         <div class="flex-caption container">
-                            <h3>Best Educational Campus..</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing<br /> elitincidunt eius magni provident.</p>
+                            <h3>Best Educational Learning...</h3>
+                            <p>Dilengkapi dengan berbagai mata pelajaran<br /> untuk menunjang pembelajaran anak</p>
                             <a href="#" class="btn btn-theme">Read More</a>
                         </div>
                     </li>
@@ -62,8 +62,8 @@ include "views/user/partials/head.php";
                                     <i class="fa fa-leanpub"></i>
                                 </div>
                                 <div class="media-body">
-                                    <h4 class="media-heading">Admissions</h4>
-                                    <p>Backed by some of the biggest names in the industry, Firefox OS is an open platform that fosters greater</p>
+                                    <h4 class="media-heading">Matematika</h4>
+                                    <p>Pelajaran matematika bertujuan mengembangkan kemampuan berpikir logis, analitis, dan pemecahan masalah.</p>
                                 </div>
                             </div>
                         </div><!--/.col-md-4-->
@@ -74,8 +74,8 @@ include "views/user/partials/head.php";
                                     <i class="fa fa-users"></i>
                                 </div>
                                 <div class="media-body">
-                                    <h4 class="media-heading">Teacher Info</h4>
-                                    <p>Backed by some of the biggest names in the industry, Firefox OS is an open platform that fosters greater</p>
+                                    <h4 class="media-heading">IPA</h4>
+                                    <p>Mengembangkan pemahaman tentang alam semesta, kehidupan, fenomena alam dan keterampilan berpikir kritis dan analitis.</p>
                                 </div>
                             </div>
                         </div><!--/.col-md-4-->
@@ -86,7 +86,7 @@ include "views/user/partials/head.php";
                                     <i class="fa fa-trophy"></i>
                                 </div>
                                 <div class="media-body">
-                                    <h4 class="media-heading">Our Campus</h4>
+                                    <h4 class="media-heading">IPS</h4>
                                     <p>Morbi vitae tortor tempus, placerat leo et, suscipit lectus. Phasellus ut euismod massa, eu eleifend ipsum.</p>
                                 </div>
                             </div>
@@ -98,7 +98,7 @@ include "views/user/partials/head.php";
                                     <i class="fa fa-user-plus"></i>
                                 </div>
                                 <div class="media-body">
-                                    <h4 class="media-heading">External Activities</h4>
+                                    <h4 class="media-heading">PPKN</h4>
                                     <p>Morbi vitae tortor tempus, placerat leo et, suscipit lectus. Phasellus ut euismod massa, eu eleifend ipsum.</p>
                                 </div>
                             </div>
@@ -110,7 +110,7 @@ include "views/user/partials/head.php";
                                     <i class="fa fa-newspaper-o"></i>
                                 </div>
                                 <div class="media-body">
-                                    <h4 class="media-heading">Sports</h4>
+                                    <h4 class="media-heading">Bahasa Indonesia</h4>
                                     <p>Morbi vitae tortor tempus, placerat leo et, suscipit lectus. Phasellus ut euismod massa, eu eleifend ipsum.</p>
                                 </div>
                             </div>
@@ -122,7 +122,7 @@ include "views/user/partials/head.php";
                                     <i class="fa fa-cubes"></i>
                                 </div>
                                 <div class="media-body">
-                                    <h4 class="media-heading">Development</h4>
+                                    <h4 class="media-heading">Bahasa Inggris</h4>
                                     <p>Morbi vitae tortor tempus, placerat leo et, suscipit lectus. Phasellus ut euismod massa, eu eleifend ipsum.</p>
                                 </div>
                             </div>
