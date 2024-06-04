@@ -24,8 +24,8 @@ include "views/user/partials/head.php";
                 <div class="row service-v1 margin-bottom-40">
                     <div class="col-md-4 md-margin-bottom-40">
                         <img class="img-responsive" src="src/img/service1.jpg" alt="">
-                        <h2>Layanan Kami</h2>
-                        <p>Pengembangan Pembelajaran Interaktif Pengembangan Materi Pembelajaran Kami menyediakan konten edukatif yang dikembangkan khusus untuk anak-anak, dengan fokus pada pembelajaran interaktif dan menyenangkan. Materi kami mencakup berbagai topik yang dirancang untuk merangsang minat belajar anak.</p>
+                        <h2>Pengembangan materi pembelajaran</h2>
+                        <p>Kami menyediakan konten atau video pembelajaran yang di kembangkan untuk anak-anak pada masa kini, dengan memfokuskan pada pembelajaran interaktif yang menyenangkan dan membangkitkan semangat anak untuk belajar.</p>
                     </div>
                     <div class="col-md-4">
                         <img class="img-responsive" src="src/img/service2.jpg" alt="">
