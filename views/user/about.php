@@ -87,13 +87,12 @@ include "views/user/partials/head.php";
 										<h4 class="panel-title">
 											<a data-toggle="collapse" data-parent="#accordion-alt3" href="#collapseThree-alt3">
 												<i class="fa fa-angle-right"></i> Teknologi Canggih :
-Dengan memanfaatkan teknologi terbaru, platform kami menawarkan pembelajaran interaktif yang menarik dan mudah diakses kapan saja dan di mana saja, mendukung proses belajar yang lebih baik.
 											</a>
 										</h4>
 									</div>
 									<div id="collapseThree-alt3" class="panel-collapse collapse">
 										<div class="panel-body">
-											Sed ut perspiciaatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas
+										Dengan memanfaatkan teknologi terbaru, platform kami menawarkan pembelajaran interaktif yang menarik dan mudah diakses kapan saja dan di mana saja, mendukung proses belajar yang lebih baik.
 										</div>
 									</div>
 								</div>
