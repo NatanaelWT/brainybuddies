@@ -73,13 +73,12 @@ include "views/user/partials/head.php";
 										<h4 class="panel-title">
 											<a data-toggle="collapse" data-parent="#accordion-alt3" href="#collapseTwo-alt3">
 												<i class="fa fa-angle-right"></i> Konten Berkualitas Tinggi : 
-Konten pendidikan kami dirancang dan dikembangkan oleh para ahli di bidangnya, memastikan materi yang disajikan akurat, relevan, dan selalu diperbarui sesuai perkembangan terbaru.
 											</a>
 										</h4>
 									</div>
 									<div id="collapseTwo-alt3" class="panel-collapse collapse">
 										<div class="panel-body">
-											Sed ut perspiciaatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas
+										Konten pendidikan kami dirancang dan dikembangkan oleh para ahli di bidangnya, memastikan materi yang disajikan akurat, relevan, dan selalu diperbarui sesuai perkembangan terbaru.
 										</div>
 									</div>
 								</div>
