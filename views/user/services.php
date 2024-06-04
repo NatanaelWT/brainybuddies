@@ -24,18 +24,18 @@ include "views/user/partials/head.php";
                 <div class="row service-v1 margin-bottom-40">
                     <div class="col-md-4 md-margin-bottom-40">
                         <img class="img-responsive" src="src/img/service1.jpg" alt="">
-                        <h2>Web Development</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quae porro consequatur aliquam, incidunt eius magni provident, doloribus omnis minus temporibus perferendis nesciunt quam repellendus nulla nemo ipsum odit corrupti consequuntur possimus</p>
+                        <h2>Pengembangan materi pembelajaran</h2>
+                        <p>Kami menyediakan konten atau video pembelajaran yang di kembangkan untuk anak-anak pada masa kini, dengan memfokuskan pada pembelajaran interaktif yang menyenangkan dan membangkitkan semangat anak untuk belajar.</p>
                     </div>
                     <div class="col-md-4">
                         <img class="img-responsive" src="src/img/service2.jpg" alt="">
-                        <h2>Mobile Development</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quae porro consequatur aliquam, incidunt eius magni provident, doloribus omnis minus temporibus perferendis nesciunt quam repellendus nulla nemo ipsum odit corrupti consequuntur possimus</p>
+                        <h2>Pengembangan Aplikasi Website</h2>
+                        <p>Kami mengembangkan aplikasi pembelajaran yang dapat diakses melalui website, sehingga anak-anak dapat belajar kapan saja dan di mana saja. Aplikasi website kami dirancang dengan antarmuka yang ramah anak dan penuh warna untuk menarik minat mereka.</p>
                     </div>
                     <div class="col-md-4 md-margin-bottom-40">
                         <img class="img-responsive" src="src/img/service3.jpg" alt="">
-                        <h2>Responsive Design</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quae porro consequatur aliquam, incidunt eius magni provident, doloribus omnis minus temporibus perferendis nesciunt quam repellendus nulla nemo ipsum odit corrupti consequuntur possimus</p>
+                        <h2>Desain Responsif</h2>
+                        <p>Kami memastikan semua materi dan aplikasi kami memiliki desain responsif yang dapat diakses dengan mudah di berbagai perangkat. Dengan desain yang adaptif, anak-anak dapat belajar dengan nyaman, baik melalui komputer, tablet, maupun ponsel pintar.</p>
                     </div>
                 </div>
                 <!-- End Service Blcoks -->
@@ -47,22 +47,22 @@ include "views/user/partials/head.php";
                     <div class="col-sm-4 info-blocks">
                         <i class="icon-info-blocks fa fa-bell-o"></i>
                         <div class="info-blocks-in">
-                            <h3>Awesome Design</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quae porro consequatur aliquam, incidunt</p>
+                            <h3>Desain Menarik</h3>
+                            <p>Menggunakan tampilan website yang menarik agar anak belajar sambil bermain.</p>
                         </div>
                     </div>
                     <div class="col-sm-4 info-blocks">
                         <i class="icon-info-blocks fa fa-hdd-o"></i>
                         <div class="info-blocks-in">
-                            <h3>FontAwesome</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quae porro consequatur aliquam, incidunt</p>
+                            <h3>Font Keren</h3>
+                            <p>Menggunakan font yang menarik untuk anak-anak.</p>
                         </div>
                     </div>
                     <div class="col-sm-4 info-blocks">
                         <i class="icon-info-blocks fa fa-lightbulb-o"></i>
                         <div class="info-blocks-in">
                             <h3>Bootstrap</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quae porro consequatur aliquam, incidunt</p>
+                            <p>Memudahkan tampilan responsif dan menarik.</p>
                         </div>
                     </div>
                 </div>
@@ -74,22 +74,22 @@ include "views/user/partials/head.php";
                     <div class="col-sm-4 info-blocks">
                         <i class="icon-info-blocks fa fa-code"></i>
                         <div class="info-blocks-in">
-                            <h3>SEO Ready</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quae porro consequatur aliquam, incidunt</p>
+                            <h3>Siap untuk SEO</h3>
+                            <p>Mudah ditemukan di mesin pencari.</p>
                         </div>
                     </div>
                     <div class="col-sm-4 info-blocks">
                         <i class="icon-info-blocks fa fa-compress"></i>
                         <div class="info-blocks-in">
-                            <h3>Fully Responsive</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quae porro consequatur aliquam, incidunt</p>
+                            <h3>Responsif Penuh</h3>
+                            <p>Tampilan yang bisa disesuaikan di berbagai perangkat.</p>
                         </div>
                     </div>
                     <div class="col-sm-4 info-blocks">
                         <i class="icon-info-blocks fa fa-html5"></i>
                         <div class="info-blocks-in">
                             <h3>CSS3 + HTML5</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quae porro consequatur aliquam, incidunt</p>
+                            <p>Menggunakan teknologi web terbaru untuk pengalaman terbaik untuk membuat web lebih modern.</p>
                         </div>
                     </div>
                 </div>

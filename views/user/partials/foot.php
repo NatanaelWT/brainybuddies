@@ -1,7 +1,7 @@
     <!-- javascript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
-    <?php if ($link[2] == "course" || $link[2] == "edit") {
+    <?php if ($link[2] == "course" || $link[2] == "edit" || $link[2] == "quiz") {
   ?>
     <script src="../src/js/jquery.js"></script>
     <script src="../src/js/jquery.easing.1.3.js"></script>
