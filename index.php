@@ -49,6 +49,9 @@ switch ($link[1].$link[2]) {
         require "views/user/add.php";
         break;
         }
+    case $link[1] . 'quiz':
+        require "views/user/quiz.php";
+        break;
     default:
         http_response_code(404);
         echo "404";

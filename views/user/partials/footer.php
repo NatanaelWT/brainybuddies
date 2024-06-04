@@ -1,26 +1,3 @@
-<?php if (isset($_SESSION['email'])) { ?>
-<div class="floating-container">
-    <div class="floating-button">+</div>
-    <div class="element-container">
-
-        <a href="google.com">
-            <span class="float-element tooltip-left">
-                <i class="material-icons">phone</i>
-            </span>
-        </a>
-        <a href="google.com">
-            <span class="float-element tooltip-left">
-                <i class="material-icons">phone</i>
-            </span>
-        </a>
-        <a href="google.com">
-            <span class="float-element tooltip-left">
-                <i class="material-icons">phone</i>
-            </span>
-        </a>
-    </div>
-</div>
-<?php } ?>
 <footer>
     <div class="container">
         <div class="row">
