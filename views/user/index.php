@@ -16,7 +16,7 @@ include "views/user/partials/head.php";
             <div id="main-slider" class="flexslider">
                 <ul class="slides">
                     <li>
-                        <img src="src/img/slides/1.jpg" alt="" />
+                        <img src="src/img/slides/7.jpg" alt="" />
                         <div class="flex-caption container">
                             <h3>Smart Learning..</h3>
                             <p>Menerapkan website sebagai media pembelajaran anak</p>
@@ -24,7 +24,7 @@ include "views/user/partials/head.php";
                         </div>
                     </li>
                     <li>
-                        <img src="src/img/slides/2.jpg" alt="" />
+                        <img src="src/img/slides/6.jpg" alt="" />
                         <div class="flex-caption container">
                             <h3>Best Educational Learning...</h3>
                             <p>Dilengkapi dengan berbagai mata pelajaran<br /> untuk menunjang pembelajaran anak</p>
@@ -59,7 +59,7 @@ include "views/user/partials/head.php";
                         <div class="col-md-4 col-sm-6 wow fadeInUp animated" data-wow-duration="300ms" data-wow-delay="0ms" style="visibility: visible; -webkit-animation-duration: 300ms; -webkit-animation-delay: 0ms;">
                             <div class="media service-box">
                                 <div class="pull-left">
-                                    <i class="fa fa-leanpub"></i>
+                                    <i class="fa fa-calculator"></i>
                                 </div>
                                 <div class="media-body">
                                     <h4 class="media-heading">Matematika</h4>
@@ -71,7 +71,7 @@ include "views/user/partials/head.php";
                         <div class="col-md-4 col-sm-6 wow fadeInUp animated" data-wow-duration="300ms" data-wow-delay="100ms" style="visibility: visible; -webkit-animation-duration: 300ms; -webkit-animation-delay: 100ms;">
                             <div class="media service-box">
                                 <div class="pull-left">
-                                <i class="fa fa-leanpub"></i>
+                                <i class="fa fa-flask"></i>
                                 </div>
                                 <div class="media-body">
                                     <h4 class="media-heading">IPA</h4>
@@ -83,7 +83,7 @@ include "views/user/partials/head.php";
                         <div class="col-md-4 col-sm-6 wow fadeInUp animated" data-wow-duration="300ms" data-wow-delay="200ms" style="visibility: visible; -webkit-animation-duration: 300ms; -webkit-animation-delay: 200ms;">
                             <div class="media service-box">
                                 <div class="pull-left">
-                                <i class="fa fa-leanpub"></i>
+                                <i class="fa fa-university"></i>
                                 </div>
                                 <div class="media-body">
                                     <h4 class="media-heading">IPS</h4>
@@ -95,7 +95,7 @@ include "views/user/partials/head.php";
                         <div class="col-md-4 col-sm-6 wow fadeInUp animated" data-wow-duration="300ms" data-wow-delay="300ms" style="visibility: visible; -webkit-animation-duration: 300ms; -webkit-animation-delay: 300ms;">
                             <div class="media service-box">
                                 <div class="pull-left">
-                                <i class="fa fa-leanpub"></i>
+                                <i class="fa fa-users"></i>
                                 </div>
                                 <div class="media-body">
                                     <h4 class="media-heading">PPKN</h4>
@@ -107,7 +107,7 @@ include "views/user/partials/head.php";
                         <div class="col-md-4 col-sm-6 wow fadeInUp animated" data-wow-duration="300ms" data-wow-delay="400ms" style="visibility: visible; -webkit-animation-duration: 300ms; -webkit-animation-delay: 400ms;">
                             <div class="media service-box">
                                 <div class="pull-left">
-                                <i class="fa fa-leanpub"></i>
+                                <i class="fa fa-book"></i>
                                 </div>
                                 <div class="media-body">
                                     <h4 class="media-heading">Bahasa Indonesia</h4>
@@ -119,7 +119,7 @@ include "views/user/partials/head.php";
                         <div class="col-md-4 col-sm-6 wow fadeInUp animated" data-wow-duration="300ms" data-wow-delay="500ms" style="visibility: visible; -webkit-animation-duration: 300ms; -webkit-animation-delay: 500ms;">
                             <div class="media service-box">
                                 <div class="pull-left">
-                                <i class="fa fa-leanpub"></i>
+                                <i class="fa fa-language"></i>
                                 </div>
                                 <div class="media-body">
                                     <h4 class="media-heading">Bahasa Inggris</h4>
@@ -139,7 +139,7 @@ include "views/user/partials/head.php";
                 <div class="row">
                     <div class="col-md-12">
                         <div class="aligncenter">
-                            <h2 class="aligncenter">Our Students</h2>BrainyBuddies berdedikasi untuk mengasuh pikiran cerdas dan menumbuhkan kecintaan pada pembelajaran. Para siswa kami adalah inti dari semua yang kami lakukan, dan kami bangga dengan prestasi dan antusiasme mereka terhadap pendidikan. Kami berusaha menciptakan lingkungan di mana mereka dapat berkembang dan mencapai potensi penuh mereka.
+                            <h2 class="aligncenter">Belajar Bersama BrainyBuddies</h2>BrainyBuddies berdedikasi untuk mengasuh pikiran cerdas dan menumbuhkan kecintaan pada pembelajaran. Para siswa kami adalah inti dari semua yang kami lakukan, dan kami bangga dengan prestasi dan antusiasme mereka terhadap pendidikan. Kami berusaha menciptakan lingkungan di mana mereka dapat berkembang dan mencapai potensi penuh mereka.
                         </div>
                         <br />
                     </div>
