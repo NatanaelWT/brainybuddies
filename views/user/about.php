@@ -58,14 +58,13 @@ include "views/user/partials/head.php";
 										<h4 class="panel-title">
 											<a data-toggle="collapse" data-parent="#accordion-alt3" href="#collapseOne-alt3">
 												<i class="fa fa-angle-right"></i> Pendekatan Pembelajaran Personal : 
-Kami menyediakan metode pembelajaran yang disesuaikan dengan kebutuhan dan gaya belajar unik setiap anak, memastikan mereka mendapatkan pengalaman belajar yang efektif dan menyenangkan.
 											</a>
 										</h4>
 									</div>
 									<div id="collapseOne-alt3" class="panel-collapse collapse">
 										<!-- Panel body -->
 										<div class="panel-body">
-											Sed ut perspiciaatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas
+										Kami menyediakan metode pembelajaran yang disesuaikan dengan kebutuhan dan gaya belajar unik setiap anak, memastikan mereka mendapatkan pengalaman belajar yang efektif dan menyenangkan.
 										</div>
 									</div>
 								</div>
@@ -74,13 +73,12 @@ Kami menyediakan metode pembelajaran yang disesuaikan dengan kebutuhan dan gaya 
 										<h4 class="panel-title">
 											<a data-toggle="collapse" data-parent="#accordion-alt3" href="#collapseTwo-alt3">
 												<i class="fa fa-angle-right"></i> Konten Berkualitas Tinggi : 
-Konten pendidikan kami dirancang dan dikembangkan oleh para ahli di bidangnya, memastikan materi yang disajikan akurat, relevan, dan selalu diperbarui sesuai perkembangan terbaru.
 											</a>
 										</h4>
 									</div>
 									<div id="collapseTwo-alt3" class="panel-collapse collapse">
 										<div class="panel-body">
-											Sed ut perspiciaatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas
+										Konten pendidikan kami dirancang dan dikembangkan oleh para ahli di bidangnya, memastikan materi yang disajikan akurat, relevan, dan selalu diperbarui sesuai perkembangan terbaru.
 										</div>
 									</div>
 								</div>
@@ -89,13 +87,12 @@ Konten pendidikan kami dirancang dan dikembangkan oleh para ahli di bidangnya, m
 										<h4 class="panel-title">
 											<a data-toggle="collapse" data-parent="#accordion-alt3" href="#collapseThree-alt3">
 												<i class="fa fa-angle-right"></i> Teknologi Canggih :
-Dengan memanfaatkan teknologi terbaru, platform kami menawarkan pembelajaran interaktif yang menarik dan mudah diakses kapan saja dan di mana saja, mendukung proses belajar yang lebih baik.
 											</a>
 										</h4>
 									</div>
 									<div id="collapseThree-alt3" class="panel-collapse collapse">
 										<div class="panel-body">
-											Sed ut perspiciaatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas
+										Dengan memanfaatkan teknologi terbaru, platform kami menawarkan pembelajaran interaktif yang menarik dan mudah diakses kapan saja dan di mana saja, mendukung proses belajar yang lebih baik.
 										</div>
 									</div>
 								</div>
@@ -104,13 +101,12 @@ Dengan memanfaatkan teknologi terbaru, platform kami menawarkan pembelajaran int
 										<h4 class="panel-title">
 											<a data-toggle="collapse" data-parent="#accordion-alt3" href="#collapseFour-alt3">
 												<i class="fa fa-angle-right"></i> Dukungan dan Bimbingan Penuh : 
-Kami tidak hanya menyediakan konten berkualitas, tetapi juga dukungan dan bimbingan penuh untuk membantu anak mengatasi setiap tantangan belajar, memastikan mereka selalu mendapatkan bantuan yang dibutuhkan untuk sukses.
 											</a>
 										</h4>
 									</div>
 									<div id="collapseFour-alt3" class="panel-collapse collapse">
 										<div class="panel-body">
-											Sed ut perspiciaatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas
+										Kami tidak hanya menyediakan konten berkualitas, tetapi juga dukungan dan bimbingan penuh untuk membantu anak mengatasi setiap tantangan belajar, memastikan mereka selalu mendapatkan bantuan yang dibutuhkan untuk sukses.
 										</div>
 									</div>
 								</div>
