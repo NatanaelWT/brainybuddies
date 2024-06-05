@@ -16,7 +16,7 @@ include "views/user/partials/head.php";
             <div id="main-slider" class="flexslider">
                 <ul class="slides">
                     <li>
-                        <img src="src/img/slides/7.jpg" alt="" />
+                        <img src="src/img/slides/6.jpg" alt="" />
                         <div class="flex-caption container">
                             <h3>Smart Learning..</h3>
                             <p>Menerapkan website sebagai media pembelajaran anak</p>
@@ -24,7 +24,7 @@ include "views/user/partials/head.php";
                         </div>
                     </li>
                     <li>
-                        <img src="src/img/slides/6.jpg" alt="" />
+                        <img src="src/img/slides/7.jpg" alt="" />
                         <div class="flex-caption container">
                             <h3>Best Educational Learning...</h3>
                             <p>Dilengkapi dengan berbagai mata pelajaran<br /> untuk menunjang pembelajaran anak</p>
@@ -139,20 +139,20 @@ include "views/user/partials/head.php";
                 <div class="row">
                     <div class="col-md-12">
                         <div class="aligncenter">
-                            <h2 class="aligncenter">Belajar Bersama BrainyBuddies</h2>BrainyBuddies berdedikasi untuk mengasuh pikiran cerdas dan menumbuhkan kecintaan pada pembelajaran. Para siswa kami adalah inti dari semua yang kami lakukan, dan kami bangga dengan prestasi dan antusiasme mereka terhadap pendidikan. Kami berusaha menciptakan lingkungan di mana mereka dapat berkembang dan mencapai potensi penuh mereka.
+                            <h2 class="aligncenter" style="padding-top: 10px;">Belajar Bersama BrainyBuddies</h2>
                         </div>
                         <br />
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-md-6">
-                        <img src="src/img/img1.png" alt="">
+                        <img src="src/img/img2.png" alt="">
                         <div class="space"></div>
                     </div>
                     <div class="col-md-6">
-                        <p>Di BrainyBuddies, kami menyediakan pendekatan holistik terhadap pendidikan yang mencakup keunggulan akademik, pemikiran kritis, dan pengembangan pribadi. Program kami dirancang untuk menginspirasi dan menantang siswa, membantu mereka menjadi individu yang percaya diri dan mampu.</p>
+                        <!-- <p>BrainyBuddies berdedikasi untuk mengasuh pikiran cerdas dan menumbuhkan kecintaan pada pembelajaran. Para siswa kami adalah inti dari semua yang kami lakukan, dan kami bangga dengan prestasi dan antusiasme mereka terhadap pendidikan. Kami berusaha menciptakan lingkungan di mana mereka dapat berkembang dan mencapai potensi penuh mereka. </p> -->
+                        <p style="align-item: center; justify-content:center; padding-top:70px;"> BrainyBuddies, kami menyediakan pendekatan holistik terhadap pendidikan yang mencakup keunggulan akademik, pemikiran kritis, dan pengembangan pribadi. Program kami dirancang untuk menginspirasi dan menantang siswa, membantu mereka menjadi individu yang percaya diri dan mampu.</p>
                         <ul class="list-unstyled">
-                            <li><i class="fa fa-arrow-circle-right pr-10 colored"></i> Berdedikasi pada keunggulan akademik</li>
                             <li><i class="fa fa-arrow-circle-right pr-10 colored"></i> Menumbuhkan kecintaan pada pembelajaran</li>
                             <li><i class="fa fa-arrow-circle-right pr-10 colored"></i> Mendorong pemikiran kritis</li>
                             <li><i class="fa fa-arrow-circle-right pr-10 colored"></i> Pengembangan pribadi yang holistik</li>
