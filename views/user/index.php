@@ -66,7 +66,7 @@ include "views/user/partials/head.php";
                                     <p>Pelajaran matematika bertujuan mengembangkan kemampuan berpikir logis, analitis, dan pemecahan masalah.</p>
                                 </div>
                             </div>
-                        </div><!--/.col-md-4-->
+                        </div>
 
                         <div class="col-md-4 col-sm-6 wow fadeInUp animated" data-wow-duration="300ms" data-wow-delay="100ms" style="visibility: visible; -webkit-animation-duration: 300ms; -webkit-animation-delay: 100ms;">
                             <div class="media service-box">
