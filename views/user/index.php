@@ -10,7 +10,6 @@ include "views/user/partials/head.php";
         ?>
         <!-- end header -->
 
-
         <section id="banner">
             <!-- Slider -->
             <div id="main-slider" class="flexslider">
@@ -18,17 +17,19 @@ include "views/user/partials/head.php";
                     <li>
                         <img src="src/img/slides/6.jpg" alt="" />
                         <div class="flex-caption container">
-                            <h3>Smart Learning..</h3>
-                            <p>Menerapkan website sebagai media pembelajaran anak</p>
-                            <a href="#" class="btn btn-theme">Read More</a>
+                            <h3>SELAMAT DATANG..</h3>
+                            <p>Di Brainybuddies sebagai media pembelajaran anak</p>
+                            <img src="src/img/img5.png" alt="" style="width: 15%; float: left; margin-right: 20px;" class="left-image">
+                            <!-- <a href="#" class="btn btn-theme" >Read More</a> -->
                         </div>
                     </li>
                     <li>
                         <img src="src/img/slides/7.jpg" alt="" />
                         <div class="flex-caption container">
-                            <h3>Best Educational Learning...</h3>
-                            <p>Dilengkapi dengan berbagai mata pelajaran<br /> untuk menunjang pembelajaran anak</p>
-                            <a href="#" class="btn btn-theme">Read More</a>
+                            <h3>Selamat Belajar...</h3>
+                            <p>dengan berbagai mata pelajaran untuk menunjang pembelajaran kalian</p>
+                            <img src="src/img/img4.png" alt="" style="width: 15%; float: left; margin-right: 20px;" class="left-image">
+                            <!-- <a href="#" class="btn btn-theme">Read More</a> -->
                         </div>
                     </li>
                 </ul>
@@ -41,7 +42,7 @@ include "views/user/partials/head.php";
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="aligncenter">
-                            <h1 class="aligncenter">Our Courses</h1>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quae porro consequatur aliquam, incidunt eius magni provident, doloribus omnis minus temporibus perferendis nesciunt quam repellendus nulla nemo ipsum odit corrupti consequuntur possimus.
+                            <h1 class="aligncenter">Our Courses</h1>Media Pembelajaran untuk meningkatkan keterampilan siswa dalam berbagai bidang pengetahuan. Kami menyediakan kursus-kursus yang dirancang untuk membantu mencapai tujuan belajar siswa.
                         </div>
 
                     </div>
@@ -49,9 +50,7 @@ include "views/user/partials/head.php";
             </div>
         </section>
 
-
         <section id="content">
-
 
             <div class="container">
                 <div class="row">
@@ -71,7 +70,7 @@ include "views/user/partials/head.php";
                         <div class="col-md-4 col-sm-6 wow fadeInUp animated" data-wow-duration="300ms" data-wow-delay="100ms" style="visibility: visible; -webkit-animation-duration: 300ms; -webkit-animation-delay: 100ms;">
                             <div class="media service-box">
                                 <div class="pull-left">
-                                <i class="fa fa-flask"></i>
+                                    <i class="fa fa-flask"></i>
                                 </div>
                                 <div class="media-body">
                                     <h4 class="media-heading">IPA</h4>
@@ -83,7 +82,7 @@ include "views/user/partials/head.php";
                         <div class="col-md-4 col-sm-6 wow fadeInUp animated" data-wow-duration="300ms" data-wow-delay="200ms" style="visibility: visible; -webkit-animation-duration: 300ms; -webkit-animation-delay: 200ms;">
                             <div class="media service-box">
                                 <div class="pull-left">
-                                <i class="fa fa-university"></i>
+                                    <i class="fa fa-university"></i>
                                 </div>
                                 <div class="media-body">
                                     <h4 class="media-heading">IPS</h4>
@@ -95,7 +94,7 @@ include "views/user/partials/head.php";
                         <div class="col-md-4 col-sm-6 wow fadeInUp animated" data-wow-duration="300ms" data-wow-delay="300ms" style="visibility: visible; -webkit-animation-duration: 300ms; -webkit-animation-delay: 300ms;">
                             <div class="media service-box">
                                 <div class="pull-left">
-                                <i class="fa fa-users"></i>
+                                    <i class="fa fa-users"></i>
                                 </div>
                                 <div class="media-body">
                                     <h4 class="media-heading">PPKN</h4>
@@ -107,7 +106,7 @@ include "views/user/partials/head.php";
                         <div class="col-md-4 col-sm-6 wow fadeInUp animated" data-wow-duration="300ms" data-wow-delay="400ms" style="visibility: visible; -webkit-animation-duration: 300ms; -webkit-animation-delay: 400ms;">
                             <div class="media service-box">
                                 <div class="pull-left">
-                                <i class="fa fa-book"></i>
+                                    <i class="fa fa-book"></i>
                                 </div>
                                 <div class="media-body">
                                     <h4 class="media-heading">Bahasa Indonesia</h4>
@@ -119,7 +118,7 @@ include "views/user/partials/head.php";
                         <div class="col-md-4 col-sm-6 wow fadeInUp animated" data-wow-duration="300ms" data-wow-delay="500ms" style="visibility: visible; -webkit-animation-duration: 300ms; -webkit-animation-delay: 500ms;">
                             <div class="media service-box">
                                 <div class="pull-left">
-                                <i class="fa fa-language"></i>
+                                    <i class="fa fa-language"></i>
                                 </div>
                                 <div class="media-body">
                                     <h4 class="media-heading">Bahasa Inggris</h4>
@@ -129,7 +128,6 @@ include "views/user/partials/head.php";
                         </div><!--/.col-md-4-->
                     </div>
                 </div>
-
 
             </div>
         </section>
@@ -146,7 +144,7 @@ include "views/user/partials/head.php";
                 </div>
                 <div class="row">
                     <div class="col-md-6">
-                        <img src="src/img/img2.png" alt="">
+                        <img src="src/img/img3.png" alt="">
                         <div class="space"></div>
                     </div>
                     <div class="col-md-6">
