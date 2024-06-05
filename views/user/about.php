@@ -121,8 +121,7 @@ include "views/user/partials/head.php";
 							<ul class="list2">
 								<li><a href="#">Pembelajaran yang Disesuaikan: Metode kami memenuhi kebutuhan dan gaya belajar unik setiap anak, menjamin pengalaman yang efektif dan menyenangkan.</a></li>
 								<li><a href="#">Konten Berkualitas Tinggi: Materi pendidikan kami dirancang oleh para ahli, menjamin akurasi, relevansi, dan pembaruan sesuai perkembangan terbaru.</a></li>
-								<li><a href="#">Dukungan dan Bimbingan Penuh
-Kami tidak hanya menyediakan konten berkualitas, tetapi juga dukungan dan bimbingan penuh untuk membantu anak mengatasi setiap tantangan belajar, memastikan mereka selalu mendapatkan bantuan yang dibutuhkan untuk sukses.</a></li>
+								<li><a href="#"></a>Dukungan dan Bimbingan Penuh: Kami menyediakan konten berkualitas serta bimbingan untuk membantu anak mengatasi setiap tantangan belajar.</li>
 								<li><a href="#">Fleksibilitas dan Kemudahan Akses
 Dengan teknologi canggih, anak dapat belajar kapan saja dan di mana saja, memberikan fleksibilitas yang mendukung gaya hidup modern dan kebutuhan belajar anak.</a></li>
 								<li><a href="#">Peningkatan Prestasi Akademik
