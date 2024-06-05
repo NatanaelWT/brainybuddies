@@ -164,7 +164,7 @@ include "views/user/partials/head.php";
 									<!-- Name -->
 									<h4>Yuandytha Fitria Ade Putri Sujiana</h4>
 									<span class="deg"><strong>1203220120</strong></span>
-									<p>Yuandytha adalah seorang mahasiswi yaitu saya sendiri yang telah berkontribusi dalam pengembangan media pendidikan di BrainyBuddies. Dengan keahlian dalam memberikan materi IPA dan PPKN menggunakan metode pembelajaran inovatif, Yuandytha memastikan setiap materi yang disajikan adalah akurat, relevan, dan mudah dipahami oleh anak-anak. Berkat dedikasi dan pengetahuannya, kami mampu memberikan pengalaman belajar yang menyenangkan dan efektif bagi setiap anak</p>
+									<p>Yuandytha, mahasiswi kontributor di BrainyBuddies, mengembangkan materi IPA dan PPKN dengan metode inovatif. Dedikasinya memastikan pengalaman belajar yang efektif dan menyenangkan, dengan konten yang akurat dan relevan bagi anak-anak.</p>
 								</div>
 							</div>
 							<div class="col-md-3 col-sm-6">
