@@ -17,18 +17,22 @@ include "views/user/partials/head.php";
                     <li>
                         <img src="src/img/slides/6.jpg" alt="" />
                         <div class="flex-caption container">
-                            <h3>SELAMAT DATANG..</h3>
-                            <p>Di Brainybuddies sebagai media pembelajaran anak</p>
-                            <img src="src/img/img5.png" alt="" style="width: 15%; float: left; margin-right: 20px;" class="left-image">
+                            <img src="src/img/img5.png" alt="" style="width:15%; float: left; margin-right: 10px; ">
+                            <h3 style="text-align:right;">SELAMAT DATANG..</h3>
+                            <p style="text-align: right;">Di Brainybuddies sebagai media pembelajaran yang menyenangkan</p>
+                            <!-- <p>Di Brainybuddies sebagai media pembelajaran anak</p>
+                            <img src="src/img/img5.png" alt="" style="width:15%"> -->
                             <!-- <a href="#" class="btn btn-theme" >Read More</a> -->
                         </div>
                     </li>
                     <li>
                         <img src="src/img/slides/7.jpg" alt="" />
                         <div class="flex-caption container">
+                            <img src="src/img/img4.png" alt="" style="width:15%; float: right; margin-left: 10px;">
                             <h3>Selamat Belajar...</h3>
                             <p>dengan berbagai mata pelajaran untuk menunjang pembelajaran kalian</p>
-                            <img src="src/img/img4.png" alt="" style="width: 15%; float: left; margin-right: 20px;" class="left-image">
+                            <!-- <p>dengan berbagai mata pelajaran untuk menunjang pembelajaran kalian</p>
+                            <img src="src/img/img4.png" alt="" style="width:15%"> -->
                             <!-- <a href="#" class="btn btn-theme">Read More</a> -->
                         </div>
                     </li>
