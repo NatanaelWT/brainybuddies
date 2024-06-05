@@ -120,14 +120,11 @@ include "views/user/partials/head.php";
 							<h3>Manfaat Menggunakan BrainyBuddies</h3>
 							<ul class="list2">
 								<li><a href="#">Pembelajaran yang Disesuaikan: Metode kami memenuhi kebutuhan dan gaya belajar unik setiap anak, menjamin pengalaman yang efektif dan menyenangkan.</a></li>
-								<li><a href="#">Konten Berkualitas Tinggi: Materi pendidikan kami dirancang oleh para ahli, menjamin akurasi, relevansi, dan pembaruan sesuai perkembangan terbaru.</a></li>
+								<li><a href="#">Konten Berkualitas Tinggi: Materi pendidikan kami sesuai dengan kurikulum sekolah dasar dan menjamin bahan ajar yang berkualitas</a></li>
 								<li><a href="#"></a>Dukungan dan Bimbingan Penuh: Kami menyediakan konten berkualitas serta bimbingan untuk membantu anak mengatasi setiap tantangan belajar.</li>
-								<li><a href="#">Fleksibilitas dan Kemudahan Akses
-Dengan teknologi canggih, anak dapat belajar kapan saja dan di mana saja, memberikan fleksibilitas yang mendukung gaya hidup modern dan kebutuhan belajar anak.</a></li>
-								<li><a href="#">Peningkatan Prestasi Akademik
-Pendekatan kami yang komprehensif telah terbukti membantu banyak siswa meningkatkan prestasi akademik mereka, memberikan mereka kepercayaan diri dan keterampilan yang dibutuhkan untuk sukses di masa depan.</a></li>
-								<li><a href="#">Teknologi Canggih
-Dengan memanfaatkan teknologi terbaru, platform kami menawarkan pembelajaran interaktif yang menarik dan mudah diakses kapan saja dan di mana saja, mendukung proses belajar yang lebih baik.</a></li>
+								<li><a href="#">Fleksibilitas dan Kemudahan Akses: Teknologi canggih kami memungkinkan anak belajar kapan saja dan di mana saja.</a></li>
+								<li><a href="#">Peningkatan Prestasi Akademik: Pendekatan kami terbukti meningkatkan prestasi akademik anak.</a></li>
+								<li><a href="#">Teknologi Canggih: Platform kami menggunakan teknologi terbaru untuk menawarkan pembelajaran interaktif yang menarik dan mudah diakses.</a></li>
 							</ul>
 						</div>
 
@@ -156,7 +153,7 @@ Dengan memanfaatkan teknologi terbaru, platform kami menawarkan pembelajaran int
 									<!-- Name -->
 									<h4>Yulan Tamariska Lepur</h4>
 									<span class="deg"><strong>1203220022</strong></span>
-									<p>Yulan Tamariska adalah seorang mahasiswi yang telah berkontribusi dalam pengembangan media pendidikan di BrainyBuddies. Dengan keahlian dalam memberikan materi Bahasa Indonesia dan IPS, dengan metode pembelajaran inovatif, Yulan memastikan setiap materi yang disajikan adalah akurat, relevan, dan mudah dipahami oleh anak-anak. Berkat dedikasi dan pengetahuannya, kami mampu memberikan pengalaman belajar yang menyenangkan dan efektif bagi setiap siswa.</p>
+									<p>Yulan Tamariska, mahasiswi kontributor di BrainyBuddies, menghadirkan materi Bahasa Indonesia dan IPS dengan metode inovatif. Dedikasinya memastikan pengalaman belajar yang efektif dan menyenangkan bagi setiap siswa, dengan konten yang akurat dan relevan.</p>
 								</div>
 							</div>
 							<div class="col-md-3 col-sm-6">
