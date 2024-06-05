@@ -175,7 +175,7 @@ include "views/user/partials/head.php";
 									<!-- Name -->
 									<h4>Tsalits Sabila Fatah</h4>
 									<span class="deg"><strong>1203220135</strong></span>
-									<p>Tsalits Sabila Fatah adalah seorang mahasiswi yang telah berkontribusi signifikan dalam pengembangan media pendidikan di BrainyBuddies. Spesialisasinya dalam memberikan materi Matematika dan Bahasa Inggris melalui metode pembelajaran yang inovatif memungkinkan setiap materi yang disajikan tidak hanya akurat dan relevan tetapi juga mudah dipahami oleh anak-anak. Dedikasi dan pengetahuan Tsalits membantu kami menciptakan pengalaman belajar yang tidak hanya efektif tetapi juga menyenangkan.</p>
+									<p>Tsalits Sabila Fatah, mahasiswi kontributor di BrainyBuddies, mengembangkan materi Matematika dan Bahasa Inggris. Dedikasinya memastikan pengalaman belajar efektif dan menyenangkan, dengan konten yang akurat dan mudah dipahami oleh anak-anak.</p>
 								</div>
 							</div>
 							<div class="col-md-3 col-sm-6">
