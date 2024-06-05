@@ -43,7 +43,7 @@ include "views/user/partials/head.php";
 							<div class="block-heading-two">
 								<h3><span>Mengapa Memilih Kami?</span></h3>
 							</div>
-							<p>Di BrainyBuddies, kami percaya bahwa setiap anak memiliki potensi luar biasa yang dapat dikembangkan dengan pendekatan yang tepat. Kami menawarkan pendekatan personal dan inovatif yang disesuaikan dengan kebutuhan dan gaya belajar anak Anda, memastikan pengalaman belajar yang terbaik. Konten pendidikan kami dikembangkan oleh para ahli untuk menjamin materi yang akurat, relevan, dan bermanfaat, serta selalu diperbarui sesuai perkembangan terbaru. Dengan teknologi canggih, pembelajaran menjadi interaktif dan menarik, mudah diakses kapan saja dan di mana saja. Kami juga menyediakan bimbingan dan dukungan penuh untuk mengatasi setiap tantangan belajar. Hasil terbukti dengan banyaknya siswa yang telah meraih kesuksesan dan peningkatan prestasi akademik bersama kami. Bergabunglah dengan BrainyBuddies dan lihat bagaimana kami dapat membantu anak Anda mencapai kesuksesan akademik yang gemilang dengan cara yang menyenangkan dan efektif!</p>
+							<p>Di BrainyBuddies, kami percaya setiap anak memiliki potensi luar biasa. Kami menawarkan pendekatan personal dan inovatif sesuai kebutuhan dan gaya belajar anak, dengan konten pendidikan akurat dan selalu diperbarui. Teknologi canggih kami membuat pembelajaran interaktif dan menarik, mudah diakses kapan saja. Kami menyediakan bimbingan penuh untuk mengatasi tantangan belajar, dan hasilnya terbukti dengan peningkatan prestasi akademik banyak siswa. Bergabunglah dengan BrainyBuddies untuk membantu anak Anda mencapai kesuksesan akademik dengan cara yang menyenangkan dan efektif!</p>
 						</div>
 						<div class="col-md-4">
 							<div class="block-heading-two">
@@ -120,7 +120,7 @@ include "views/user/partials/head.php";
 							<h3>Manfaat Menggunakan BrainyBuddies</h3>
 							<ul class="list2">
 								<li><a href="#">Pembelajaran yang Disesuaikan
-Kami menyediakan metode pembelajaran yang disesuaikan dengan kebutuhan dan gaya belajar unik setiap anak, memastikan mereka mendapatkan pengalaman belajar yang efektif dan menyenangkan.</a></li>
+Metode kami sesuai dengan kebutuhan dan gaya belajar unik setiap anak, memastikan pengalaman belajar efektif dan menyenangkan.</a></li>
 								<li><a href="#">Konten Berkualitas Tinggi
 Konten pendidikan kami dirancang dan dikembangkan oleh para ahli di bidangnya, memastikan materi yang disajikan akurat, relevan, dan selalu diperbarui sesuai perkembangan terbaru.</a></li>
 								<li><a href="#">Dukungan dan Bimbingan Penuh
