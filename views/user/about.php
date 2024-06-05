@@ -186,7 +186,7 @@ include "views/user/partials/head.php";
 									<!-- Name -->
 									<h4>Natanael Wijaya Tiono</h4>
 									<span class="deg"><strong>1203220140</strong></span>
-									<p>Natanael Wijaya Tiono adalah mahasiswa yang memegang peranan krusial dalam pengelolaan database dan pengembangan infrastruktur web di BrainyBuddies. Dengan keahlian teknis yang mumpuni, Natanael berkontribusi besar dalam memastikan bahwa situs web kami beroperasi dengan lancar dan efisien, mendukung pengalaman belajar yang interaktif dan mudah diakses bagi para pengguna. Dedikasinya dalam mengoptimalkan teknologi informasi membuatnya menjadi pilar penting dalam tim kami, membantu kami mewujudkan visi pendidikan yang lebih baik.</p>
+									<p>Natanael Wijaya Tiono, mahasiswa krusial dalam pengelolaan database dan infrastruktur web di BrainyBuddies, mengoptimalkan teknologi informasi. Dedikasinya mendukung pengalaman belajar interaktif dan kontribusinya penting dalam visi pendidikan yang lebih baik.</p>
 								</div>
 							</div>
 						</div>
@@ -204,7 +204,7 @@ include "views/user/partials/head.php";
 				<div class="row">
 					<div class="col-md-12">
 						<div class="aligncenter">
-							<h2 class="aligncenter">Penempatan Kampus</h2>Kami, mahasiswa Informatika semester 4, mengembangkan website ini sebagai bagian dari tugas besar kami dengan tujuan untuk memperkuat kesiapan dan kesempatan kerja bagi sesama mahasiswa. Proyek ini tidak hanya menunjukkan penerapan teori yang kami pelajari di kelas, tetapi juga bertujuan untuk menciptakan jembatan yang solid antara pendidikan akademik dan tuntutan profesional. Melalui situs ini, kami berupaya untuk mengintegrasikan peluang penempatan kerja yang relevan dengan kebutuhan industri, memastikan bahwa mahasiswa memiliki akses ke berbagai peluang yang memperkaya dan mempersiapkan mereka untuk sukses di dunia kerja yang kompetitif..
+							<h2 class="aligncenter">Penempatan Kampus</h2>Kami, mahasiswa Informatika semester 4, mengembangkan website ini sebagai tugas besar untuk memperkuat kesiapan kerja sesama mahasiswa. Proyek ini mengintegrasikan peluang penempatan kerja dengan kebutuhan industri, mempersiapkan mahasiswa untuk sukses di dunia kerja yang kompetitif.
 						</div>
 						<br />
 					</div>
