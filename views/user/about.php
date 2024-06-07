@@ -120,16 +120,8 @@ include "views/user/partials/head.php";
 
 							<h3>Manfaat Menggunakan BrainyBuddies</h3>
 							<ul class="list2">
-
-								<li><a href="#">Pembelajaran yang Disesuaikan
-Kami menyediakan metode pembelajaran yang disesuaikan dengan kebutuhan dan gaya belajar unik setiap anak, memastikan mereka mendapatkan pengalaman belajar yang efektif dan menyenangkan.</a></li>
-								<li><a href="#">Konten Berkualitas Tinggi
-Konten pendidikan kami dirancang dan dikembangkan oleh para ahli di bidangnya, memastikan materi yang disajikan akurat, relevan, dan selalu diperbarui sesuai perkembangan terbaru.</a></li>
-								<li><a href="#">Fleksibilitas dan Kemudahan Akses
-Dengan teknologi canggih, anak dapat belajar kapan saja dan di mana saja, memberikan fleksibilitas yang mendukung gaya hidup modern dan kebutuhan belajar anak.</a></li>
-								</ul>
 								<li><a href="#">Pembelajaran yang Disesuaikan: Metode kami memenuhi kebutuhan dan gaya belajar unik setiap anak, menjamin pengalaman yang efektif dan menyenangkan.</a></li>
-								<li><a href="#">Konten Berkualitas Tinggi: Materi pendidikan kami sesuai dengan kurikulum sekolah dasar dan menjamin bahan ajar yang baik</a></li>
+								<li><a href="#">Konten Video yang diberikan Berkualitas Tinggi: Materi pendidikan kami sesuai dengan kurikulum sekolah dasar dan menjamin bahan ajar yang baik</a></li>
 								<li><a href="#">Peningkatan Prestasi Akademik: Pendekatan kami terbukti meningkatkan prestasi akademik anak.</a></li>
 							</ul>
 						</div>
@@ -159,7 +151,7 @@ Dengan teknologi canggih, anak dapat belajar kapan saja dan di mana saja, member
 									<!-- Name -->
 									<h4>Yulan Tamariska Lepur</h4>
 									<span class="deg"><strong>1203220022</strong></span>
-									<p>Yulan Tamariska, mahasiswi kontributor di BrainyBuddies, menghadirkan materi Bahasa Indonesia dan IPS dengan metode inovatif. Dedikasinya memastikan pengalaman belajar yang efektif dan menyenangkan bagi setiap siswa, dengan konten yang akurat dan relevan.</p>
+									<p>Yulan Tamariska, mahasiswi kontributor di BrainyBuddies, memberikan materi Bahasa Indonesia dan IPS.</p>
 								</div>
 							</div>
 							<div class="col-md-3 col-sm-6">
@@ -170,7 +162,7 @@ Dengan teknologi canggih, anak dapat belajar kapan saja dan di mana saja, member
 									<!-- Name -->
 									<h4>Yuandytha Fitria Ade Putri Sujiana</h4>
 									<span class="deg"><strong>1203220120</strong></span>
-									<p>Yuandytha, mahasiswi kontributor di BrainyBuddies, mengembangkan materi IPA dan PPKN dengan metode inovatif. Dedikasinya memastikan pengalaman belajar yang efektif dan menyenangkan, dengan konten yang akurat dan relevan bagi anak-anak.</p>
+									<p>Yuandytha, mahasiswi kontributor di BrainyBuddies, memberikan materi IPA dan PPKN. </p>
 								</div>
 							</div>
 							<div class="col-md-3 col-sm-6">
@@ -181,7 +173,7 @@ Dengan teknologi canggih, anak dapat belajar kapan saja dan di mana saja, member
 									<!-- Name -->
 									<h4>Tsalits Sabila Fatah</h4>
 									<span class="deg"><strong>1203220135</strong></span>
-									<p>Tsalits Sabila Fatah, mahasiswi kontributor di BrainyBuddies, mengembangkan materi Matematika dan Bahasa Inggris. Dedikasinya memastikan pengalaman belajar efektif dan menyenangkan, dengan konten yang akurat dan mudah dipahami oleh anak-anak.</p>
+									<p>Tsalits Sabila Fatah, mahasiswi kontributor di BrainyBuddies, memberikan materi Matematika dan Bahasa Inggris.</p>
 								</div>
 							</div>
 							<div class="col-md-3 col-sm-6">
@@ -192,50 +184,46 @@ Dengan teknologi canggih, anak dapat belajar kapan saja dan di mana saja, member
 									<!-- Name -->
 									<h4>Natanael Wijaya Tiono</h4>
 									<span class="deg"><strong>1203220140</strong></span>
-									<p>Natanael Wijaya Tiono, mahasiswa krusial dalam pengelolaan database dan infrastruktur web di BrainyBuddies, mengoptimalkan teknologi informasi. Dedikasinya mendukung pengalaman belajar interaktif dan kontribusinya penting dalam visi pendidikan yang lebih baik.</p>
+									<p>Natanael Wijaya Tiono, mahasiswa krusial dalam pengelolaan database dan infrastruktur web di BrainyBuddies.</p>
 								</div>
 							</div>
 						</div>
 					</div>
 
 					<!-- Our team ends -->
-
-
 				</div>
-
-			</div>
-		</section>
-		<section id="clients">
-			<div class="container">
-				<div class="row">
-					<div class="col-md-12">
-						<div class="aligncenter">
-							<h2 class="aligncenter">Penempatan Kampus</h2>Kami, mahasiswa Informatika semester 4, mengembangkan website ini sebagai tugas besar untuk memperkuat kesiapan kerja sesama mahasiswa. Proyek ini mengintegrasikan peluang penempatan kerja dengan kebutuhan industri, mempersiapkan mahasiswa untuk sukses di dunia kerja yang kompetitif.
-						</div>
-						<br />
-					</div>
-				</div>
-				<div class="row">
-					<div class="col-md-2 col-sm-4 client">
-						<div class="img client1"></div>
-					</div>
-					<div class="col-md-2 col-sm-4 client">
-						<div class="img client2"></div>
-					</div>
-					<div class="col-md-2 col-sm-4 client">
-						<div class="img client3"></div>
-					</div>
-					<div class="col-md-2 col-sm-4 client">
-						<div class="img client1"></div>
-					</div>
-					<div class="col-md-2 col-sm-4 client">
-						<div class="img client2"></div>
-					</div>
-					<div class="col-md-2 col-sm-4 client">
-						<div class="img client3"></div>
-					</div>
-				</div>
-			</div>
+				<section id="clients">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="aligncenter">
+                    <h2 class="aligncenter">Penempatan Kampus</h2>Kami, mahasiswa Informatika semester 4, mengembangkan website ini sebagai tugas besar untuk memperkuat kesiapan kerja sesama mahasiswa. Proyek ini mengintegrasikan peluang penempatan kerja dengan kebutuhan industri, mempersiapkan mahasiswa untuk sukses di dunia kerja yang kompetitif.
+                </div>
+                <br />
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-2 col-sm-4 client">
+                <img src="src/img/1.png" alt="Client 1">
+            </div>
+            <div class="col-md-2 col-sm-4 client">
+                <img src="src/img/2.png" alt="Client 2">
+            </div>
+            <div class="col-md-2 col-sm-4 client">
+                <img src="src/img/3.png" alt="Client 3">
+            </div>
+            <div class="col-md-2 col-sm-4 client">
+                <img src="src/img/4.png" alt="Client 4">
+            </div>
+            <div class="col-md-2 col-sm-4 client">
+                <img src="src/img/5.jfif" alt="Client 5">
+            </div>
+            <div class="col-md-2 col-sm-4 client">
+                <img src="src/img/6.png" alt="Client 6">
+            </div>
+        </div>
+    </div>
+</section>	
 		</section>
 		<?php
 		include "views/user/partials/footer.php";
