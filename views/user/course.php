@@ -68,7 +68,7 @@ $data = mysqli_fetch_array($temp)
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quae porro consequatur aliquam, incidunt</p>
                         </div>
                     </div> -->
-                <?php if ($data['quiz'] != "|||||;|||||;|||||;|||||;|||||") { ?>
+                <?php if ($data['quiz'] != " | | | | |1; | | | | |1; | | | | |1; | | | | |1; | | | | |1") { ?>
                     <a href="../quiz/<?= $data['nama_materi'] ?>=0">
                         <div class="col-sm-4 info-blocks" style="float:right; padding-right:0;">
                             <i class="icon-info-blocks fa fa-arrow-right" style="margin:0; float:right;"> Quiz</i>
