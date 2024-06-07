@@ -50,22 +50,12 @@ $data = mysqli_fetch_array($temp)
                                 </div>
                             </div>
                         </div>
-                        <div class="form-group has-feedback" style="margin-top: 150px;">
-                            <div class="btn-toolbar">
-                                <div class="btn-group">
-                                    <button class="btn btn-success">Prev</button>
-                                    <button class="btn btn-success active">1</button>
-                                    <button class="btn btn-success" onclick="loadDoc()">2</button>
-                                    <button class="btn btn-success">3</button>
-                                    <button class="btn btn-success">4</button>
-                                    <button class="btn btn-success">5</button>
-                                    <button class="btn btn-success">Next</button>
-                                </div>
-                            </div>
+                        <div class="form-group has-feedback" style="margin-top: 100px; float:right;">
+
+                            <button class="btn btn-success">Next</button>
                         </div>
                     </div>
                 </div>
-            </div>
         </section>
         <script>
 

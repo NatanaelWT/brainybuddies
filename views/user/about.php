@@ -100,28 +100,14 @@ include "views/user/partials/head.php";
 								<div class="panel">
 									<div class="panel-heading">
 										<h4 class="panel-title">
-											<a data-toggle="collapse" data-parent="#accordion-alt3" href="#collapseThree-alt3">
-												<i class="fa fa-angle-right"></i> Teknologi Canggih :
-											</a>
-										</h4>
-									</div>
-									<div id="collapseThree-alt3" class="panel-collapse collapse">
-										<div class="panel-body">
-											Dengan memanfaatkan teknologi terbaru, platform kami menawarkan pembelajaran interaktif yang menarik dan mudah diakses kapan saja dan di mana saja, mendukung proses belajar yang lebih baik.
-										</div>
-									</div>
-								</div>
-								<div class="panel">
-									<div class="panel-heading">
-										<h4 class="panel-title">
 											<a data-toggle="collapse" data-parent="#accordion-alt3" href="#collapseFour-alt3">
-												<i class="fa fa-angle-right"></i> Dukungan dan Bimbingan Penuh :
+												<i class="fa fa-angle-right"></i> Quiz Dan Pelatihan  :
 											</a>
 										</h4>
 									</div>
 									<div id="collapseFour-alt3" class="panel-collapse collapse">
 										<div class="panel-body">
-											Kami tidak hanya menyediakan konten berkualitas, tetapi juga dukungan dan bimbingan penuh untuk membantu anak mengatasi setiap tantangan belajar, memastikan mereka selalu mendapatkan bantuan yang dibutuhkan untuk sukses.
+											Kami tidak hanya menyediakan konten berkualitas, tetapi kami juga memberikan bimbingan penuh berupa quiz untuk membantu anak mengatasi tantangan belajar, memastikan mereka selalu mendapatkan bantuan yang dibutuhkan untuk anak.
 										</div>
 									</div>
 								</div>
@@ -134,13 +120,20 @@ include "views/user/partials/head.php";
 
 							<h3>Manfaat Menggunakan BrainyBuddies</h3>
 							<ul class="list2">
+<<<<<<< HEAD
+								<li><a href="#">Pembelajaran yang Disesuaikan
+Kami menyediakan metode pembelajaran yang disesuaikan dengan kebutuhan dan gaya belajar unik setiap anak, memastikan mereka mendapatkan pengalaman belajar yang efektif dan menyenangkan.</a></li>
+								<li><a href="#">Konten Berkualitas Tinggi
+Konten pendidikan kami dirancang dan dikembangkan oleh para ahli di bidangnya, memastikan materi yang disajikan akurat, relevan, dan selalu diperbarui sesuai perkembangan terbaru.</a></li>
+								<li><a href="#">Fleksibilitas dan Kemudahan Akses
+Dengan teknologi canggih, anak dapat belajar kapan saja dan di mana saja, memberikan fleksibilitas yang mendukung gaya hidup modern dan kebutuhan belajar anak.</a></li>
+								</ul>
+=======
 								<li><a href="#">Pembelajaran yang Disesuaikan: Metode kami memenuhi kebutuhan dan gaya belajar unik setiap anak, menjamin pengalaman yang efektif dan menyenangkan.</a></li>
-								<li><a href="#">Konten Berkualitas Tinggi: Materi pendidikan kami sesuai dengan kurikulum sekolah dasar dan menjamin bahan ajar yang berkualitas</a></li>
-								<li><a href="#"></a>Dukungan dan Bimbingan Penuh: Kami menyediakan konten berkualitas serta bimbingan untuk membantu anak mengatasi setiap tantangan belajar.</li>
-								<li><a href="#">Fleksibilitas dan Kemudahan Akses: Teknologi canggih kami memungkinkan anak belajar kapan saja dan di mana saja.</a></li>
+								<li><a href="#">Konten Berkualitas Tinggi: Materi pendidikan kami sesuai dengan kurikulum sekolah dasar dan menjamin bahan ajar yang baik</a></li>
 								<li><a href="#">Peningkatan Prestasi Akademik: Pendekatan kami terbukti meningkatkan prestasi akademik anak.</a></li>
-								<li><a href="#">Teknologi Canggih: Platform kami menggunakan teknologi terbaru untuk menawarkan pembelajaran interaktif yang menarik dan mudah diakses.</a></li>
 							</ul>
+>>>>>>> 994b14172a09f1c24078daf2c30d0384a960c32e
 						</div>
 
 					</div>
