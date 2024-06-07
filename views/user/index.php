@@ -17,9 +17,9 @@ include "views/user/partials/head.php";
                     <li>
                         <img src="src/img/slides/6.jpg" alt="" />
                         <div class="flex-caption container">
-                            <img src="src/img/img8.png" alt="" style="width:15%; float: left; margin-right: 10px; ">
-                            <h3 style="text-align:right;">SELAMAT DATANG..</h3>
-                            <p style="text-align:right;">Di Brainybuddies sebagai media pembelajaran yang menyenangkan</p>
+                            <img src="src/img/img8.png" alt="" style="width:12%; float: left; margin-right: 10px; ">
+                            <h3>SELAMAT DATANG..</h3>
+                            <p>Di Brainybuddies sebagai media pembelajaran yang menyenangkan</p>
                         </div>
                     </li>
                     <li>
