@@ -67,15 +67,22 @@ $data = mysqli_fetch_array($temp)
                             <h3>Fully Responsive</h3>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quae porro consequatur aliquam, incidunt</p>
                         </div>
-                    </div>
-                    <div class="col-sm-4 info-blocks">
-                        <i class="icon-info-blocks fa fa-html5"></i>
-                        <div class="info-blocks-in">
-                            <h3>CSS3 + HTML5</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quae porro consequatur aliquam, incidunt</p>
+                    </div> -->
+                <?php if ($data['quiz'] != "|||||;|||||;|||||;|||||;|||||") { ?>
+                    <a href="../quiz/<?= $data['nama_materi'] ?>=0">
+                        <div class="col-sm-4 info-blocks" style="float:right; padding-right:0;">
+                            <i class="icon-info-blocks fa fa-arrow-right" style="margin:0; float:right;"> Quiz</i>
                         </div>
-                    </div>
-                </div> -->
+                    </a>
+                <?php } ?>
+                <?php if (isset($_SESSION['email'])) { ?>
+                    <a href="../editquiz/<?= $data['nama_materi'] ?>">
+                        <div class="col-sm-4 info-blocks" style="padding-left:0;">
+                            <i class="icon-info-blocks fa fa-cog" style="margin:0; float:left; background-color:blue;">Edit Quiz</i>
+                        </div>
+                    </a>
+                <?php } ?>
+                <!-- </div> -->
                 <!-- End Info Blcoks -->
 
 

@@ -88,7 +88,8 @@ $data = mysqli_fetch_array($temp);
 									<textarea class="form-control" rows="6" name="deskripsi" placeholder=""><?= $data['deskripsi'] ?></textarea>
 									<i class="fa fa-pencil form-control-feedback"></i>
 								</div>
-								<input type="submit" value="Submit" id="submit" class="submit btn btn-default">
+								<input type="submit" value="Submit" id="submit" class="submit btn btn-success">
+								<a href="../delete/<?=$link[3]?>"><div class="btn btn-danger">Delete</div></a>
 							</form>
 
 

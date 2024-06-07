@@ -7,7 +7,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="/brainybuddies"><img src='<?php if ($link[2] == "course" || $link[2] == "edit" || $link[2] == "quiz") {?>
+                <a class="navbar-brand" href="/brainybuddies"><img src='<?php if ($link[2] == "course" || $link[2] == "edit" || $link[2] == "quiz" || $link[2] == "editquiz") {?>
     ../src/img/logo.png
   <?php } else { ?>
     src/img/logo.png
