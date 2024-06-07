@@ -134,7 +134,6 @@ include "views/user/partials/head.php";
 
 							<h3>Manfaat Menggunakan BrainyBuddies</h3>
 							<ul class="list2">
-<<<<<<< HEAD
 								<li><a href="#">Pembelajaran yang Disesuaikan
 Kami menyediakan metode pembelajaran yang disesuaikan dengan kebutuhan dan gaya belajar unik setiap anak, memastikan mereka mendapatkan pengalaman belajar yang efektif dan menyenangkan.</a></li>
 								<li><a href="#">Konten Berkualitas Tinggi
@@ -147,7 +146,6 @@ Dengan teknologi canggih, anak dapat belajar kapan saja dan di mana saja, member
 								<li><a href="#">Konten Berkualitas Tinggi: Materi pendidikan kami sesuai dengan kurikulum sekolah dasar dan menjamin bahan ajar yang baik</a></li>
 								<li><a href="#">Peningkatan Prestasi Akademik: Pendekatan kami terbukti meningkatkan prestasi akademik anak.</a></li>
 							</ul>
->>>>>>> 994b14172a09f1c24078daf2c30d0384a960c32e
 						</div>
 
 					</div>
