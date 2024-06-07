@@ -1,8 +1,11 @@
 <?php
 include "views/user/partials/head.php";
 include "function/crud.php";
-$temp = readWhere("materi", "nama_materi", str_replace("%20", " ", $link[3]));
-$data = mysqli_fetch_array($temp)
+$lin = explode("=",str_replace("%20", " ", $link[3]));
+$temp = readWhere("materi", "nama_materi", $lin[0]);
+$data = mysqli_fetch_array($temp);
+$temp2 = explode(";", $data['quiz']);
+$quiz = explode(",", $temp2[$lin[1]]);
 ?>
 
 <body>
