@@ -12,12 +12,27 @@ include "views/user/partials/head.php";
 		<section id="inner-headline">
 			<div class="container">
 				<div class="row">
-					<div class="col-lg-12">
+					<!-- Gambar di samping kiri -->
+					<div class="col-lg-3">
+						<img src="src/img/img5.png" alt="Gambar Kiri" style="width:45%; float: left;">
+					</div>
+					<div class="col-lg-6 text-center">
 						<h2 class="pageTitle">About Us</h2>
 					</div>
 				</div>
 			</div>
 		</section>
+
+		<!-- end header -->
+		<!-- <section id="inner-headline">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-12">
+						<h2 class="pageTitle">About Us</h2>
+					</div>
+				</div>
+			</div>
+		</section> -->
 
 		<section id="content">
 			<div class="container">
@@ -28,7 +43,7 @@ include "views/user/partials/head.php";
 						<div class="col-md-12">
 							<div class="about-logo">
 								<h3>Kami adalah Platform Pembelajaran<span class="color"> Inovatif</span></h3>
-								<p>Selamat datang di BrainyBuddies, tempat kami mengubah cara anak belajar!  kami berdedikasi untuk menyediakan konten pendidikan berkualitas tinggi guna membantu anak sukses dalam studi.kami menawarkan pembelajaran  yang disesuaikan dengan kebutuhan anak.</p>
+								<p>Selamat datang di BrainyBuddies, tempat kami mengubah cara anak belajar! kami berdedikasi untuk menyediakan konten pendidikan berkualitas tinggi guna membantu anak sukses dalam studi.kami menawarkan pembelajaran yang disesuaikan dengan kebutuhan anak.</p>
 							</div>
 							<a href="#" class="btn btn-color">Read more</a>
 						</div>
@@ -57,14 +72,14 @@ include "views/user/partials/head.php";
 									<div class="panel-heading">
 										<h4 class="panel-title">
 											<a data-toggle="collapse" data-parent="#accordion-alt3" href="#collapseOne-alt3">
-												<i class="fa fa-angle-right"></i> Pendekatan Pembelajaran Personal : 
+												<i class="fa fa-angle-right"></i> Pendekatan Pembelajaran Personal :
 											</a>
 										</h4>
 									</div>
 									<div id="collapseOne-alt3" class="panel-collapse collapse">
 										<!-- Panel body -->
 										<div class="panel-body">
-										Kami menyediakan metode pembelajaran yang disesuaikan dengan kebutuhan dan gaya belajar unik setiap anak, memastikan mereka mendapatkan pengalaman belajar yang efektif dan menyenangkan.
+											Kami menyediakan metode pembelajaran yang disesuaikan dengan kebutuhan dan gaya belajar unik setiap anak, memastikan mereka mendapatkan pengalaman belajar yang efektif dan menyenangkan.
 										</div>
 									</div>
 								</div>
@@ -72,13 +87,13 @@ include "views/user/partials/head.php";
 									<div class="panel-heading">
 										<h4 class="panel-title">
 											<a data-toggle="collapse" data-parent="#accordion-alt3" href="#collapseTwo-alt3">
-												<i class="fa fa-angle-right"></i> Konten Berkualitas Tinggi : 
+												<i class="fa fa-angle-right"></i> Konten Berkualitas Tinggi :
 											</a>
 										</h4>
 									</div>
 									<div id="collapseTwo-alt3" class="panel-collapse collapse">
 										<div class="panel-body">
-										Konten pendidikan kami dirancang dan dikembangkan oleh para ahli di bidangnya, memastikan materi yang disajikan akurat, relevan, dan selalu diperbarui sesuai perkembangan terbaru.
+											Konten pendidikan kami dirancang dan dikembangkan oleh para ahli di bidangnya, memastikan materi yang disajikan akurat, relevan, dan selalu diperbarui sesuai perkembangan terbaru.
 										</div>
 									</div>
 								</div>
@@ -92,7 +107,7 @@ include "views/user/partials/head.php";
 									</div>
 									<div id="collapseThree-alt3" class="panel-collapse collapse">
 										<div class="panel-body">
-										Dengan memanfaatkan teknologi terbaru, platform kami menawarkan pembelajaran interaktif yang menarik dan mudah diakses kapan saja dan di mana saja, mendukung proses belajar yang lebih baik.
+											Dengan memanfaatkan teknologi terbaru, platform kami menawarkan pembelajaran interaktif yang menarik dan mudah diakses kapan saja dan di mana saja, mendukung proses belajar yang lebih baik.
 										</div>
 									</div>
 								</div>
@@ -100,13 +115,13 @@ include "views/user/partials/head.php";
 									<div class="panel-heading">
 										<h4 class="panel-title">
 											<a data-toggle="collapse" data-parent="#accordion-alt3" href="#collapseFour-alt3">
-												<i class="fa fa-angle-right"></i> Dukungan dan Bimbingan Penuh : 
+												<i class="fa fa-angle-right"></i> Dukungan dan Bimbingan Penuh :
 											</a>
 										</h4>
 									</div>
 									<div id="collapseFour-alt3" class="panel-collapse collapse">
 										<div class="panel-body">
-										Kami tidak hanya menyediakan konten berkualitas, tetapi juga dukungan dan bimbingan penuh untuk membantu anak mengatasi setiap tantangan belajar, memastikan mereka selalu mendapatkan bantuan yang dibutuhkan untuk sukses.
+											Kami tidak hanya menyediakan konten berkualitas, tetapi juga dukungan dan bimbingan penuh untuk membantu anak mengatasi setiap tantangan belajar, memastikan mereka selalu mendapatkan bantuan yang dibutuhkan untuk sukses.
 										</div>
 									</div>
 								</div>

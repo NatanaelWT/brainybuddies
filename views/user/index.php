@@ -17,23 +17,17 @@ include "views/user/partials/head.php";
                     <li>
                         <img src="src/img/slides/6.jpg" alt="" />
                         <div class="flex-caption container">
-                            <img src="src/img/img5.png" alt="" style="width:15%; float: left; margin-right: 10px; ">
+                            <img src="src/img/img8.png" alt="" style="width:15%; float: left; margin-right: 10px; ">
                             <h3 style="text-align:right;">SELAMAT DATANG..</h3>
-                            <p style="text-align: right;">Di Brainybuddies sebagai media pembelajaran yang menyenangkan</p>
-                            <!-- <p>Di Brainybuddies sebagai media pembelajaran anak</p>
-                            <img src="src/img/img5.png" alt="" style="width:15%"> -->
-                            <!-- <a href="#" class="btn btn-theme" >Read More</a> -->
+                            <p style="text-align:right;">Di Brainybuddies sebagai media pembelajaran yang menyenangkan</p>
                         </div>
                     </li>
                     <li>
                         <img src="src/img/slides/7.jpg" alt="" />
                         <div class="flex-caption container">
-                            <img src="src/img/img4.png" alt="" style="width:15%; float: right; margin-left: 10px;">
+                            <img src="src/img/img4.png" alt="" style="width:16%; float: right; margin-left: 10px;">
                             <h3>Selamat Belajar...</h3>
                             <p>dengan berbagai mata pelajaran untuk menunjang pembelajaran kalian</p>
-                            <!-- <p>dengan berbagai mata pelajaran untuk menunjang pembelajaran kalian</p>
-                            <img src="src/img/img4.png" alt="" style="width:15%"> -->
-                            <!-- <a href="#" class="btn btn-theme">Read More</a> -->
                         </div>
                     </li>
                 </ul>
@@ -59,7 +53,7 @@ include "views/user/partials/head.php";
             <div class="container">
                 <div class="row">
                     <div class="features">
-                        <div class="col-md-4 col-sm-6 wow fadeInUp animated" data-wow-duration="300ms" data-wow-delay="0ms" style="visibility: visible; -webkit-animation-duration: 300ms; -webkit-animation-delay: 0ms;">
+                        <div class="col-md-4 col-sm-6 wow fadeInUp animated" data-wow-duration="300ms" data-wow-delay="0ms" style="visibility: visible; -webkit-animation-durations: 300ms; -webkit-animation-delays: 0ms;">
                             <div class="media service-box">
                                 <div class="pull-left">
                                     <i class="fa fa-calculator"></i>
@@ -71,7 +65,7 @@ include "views/user/partials/head.php";
                             </div>
                         </div>
 
-                        <div class="col-md-4 col-sm-6 wow fadeInUp animated" data-wow-duration="300ms" data-wow-delay="100ms" style="visibility: visible; -webkit-animation-duration: 300ms; -webkit-animation-delay: 100ms;">
+                        <div class="col-md-4 col-sm-6 wow fadeInUp animated" data-wow-duration="300ms" data-wow-delay="100ms" style="visibility: visible; -webkit-animation-durations: 300ms; -webkit-animation-delays: 100ms;">
                             <div class="media service-box">
                                 <div class="pull-left">
                                     <i class="fa fa-flask"></i>
@@ -83,7 +77,7 @@ include "views/user/partials/head.php";
                             </div>
                         </div><!--/.col-md-4-->
 
-                        <div class="col-md-4 col-sm-6 wow fadeInUp animated" data-wow-duration="300ms" data-wow-delay="200ms" style="visibility: visible; -webkit-animation-duration: 300ms; -webkit-animation-delay: 200ms;">
+                        <div class="col-md-4 col-sm-6 wow fadeInUp animated" data-wow-duration="300ms" data-wow-delay="200ms" style="visibility: visible; -webkit-animation-durations: 300ms; -webkit-animation-delays: 200ms;">
                             <div class="media service-box">
                                 <div class="pull-left">
                                     <i class="fa fa-university"></i>
@@ -95,7 +89,7 @@ include "views/user/partials/head.php";
                             </div>
                         </div><!--/.col-md-4-->
 
-                        <div class="col-md-4 col-sm-6 wow fadeInUp animated" data-wow-duration="300ms" data-wow-delay="300ms" style="visibility: visible; -webkit-animation-duration: 300ms; -webkit-animation-delay: 300ms;">
+                        <div class="col-md-4 col-sm-6 wow fadeInUp animated" data-wow-duration="300ms" data-wow-delay="300ms" style="visibility: visible; -webkit-animation-durations: 300ms; -webkit-animation-delays: 300ms;">
                             <div class="media service-box">
                                 <div class="pull-left">
                                     <i class="fa fa-users"></i>
@@ -107,7 +101,7 @@ include "views/user/partials/head.php";
                             </div>
                         </div><!--/.col-md-4-->
 
-                        <div class="col-md-4 col-sm-6 wow fadeInUp animated" data-wow-duration="300ms" data-wow-delay="400ms" style="visibility: visible; -webkit-animation-duration: 300ms; -webkit-animation-delay: 400ms;">
+                        <div class="col-md-4 col-sm-6 wow fadeInUp animated" data-wow-duration="300ms" data-wow-delay="400ms" style="visibility: visible; -webkit-animation-durations: 300ms; -webkit-animation-delays: 400ms;">
                             <div class="media service-box">
                                 <div class="pull-left">
                                     <i class="fa fa-book"></i>
@@ -119,7 +113,7 @@ include "views/user/partials/head.php";
                             </div>
                         </div><!--/.col-md-4-->
 
-                        <div class="col-md-4 col-sm-6 wow fadeInUp animated" data-wow-duration="300ms" data-wow-delay="500ms" style="visibility: visible; -webkit-animation-duration: 300ms; -webkit-animation-delay: 500ms;">
+                        <div class="col-md-4 col-sm-6 wow fadeInUp animated" data-wow-duration="300ms" data-wow-delay="500ms" style="visibility: visible; -webkit-animation-durations: 300ms; -webkit-animation-delays: 500ms;">
                             <div class="media service-box">
                                 <div class="pull-left">
                                     <i class="fa fa-language"></i>
@@ -153,7 +147,7 @@ include "views/user/partials/head.php";
                     </div>
                     <div class="col-md-6">
                         <!-- <p>BrainyBuddies berdedikasi untuk mengasuh pikiran cerdas dan menumbuhkan kecintaan pada pembelajaran. Para siswa kami adalah inti dari semua yang kami lakukan, dan kami bangga dengan prestasi dan antusiasme mereka terhadap pendidikan. Kami berusaha menciptakan lingkungan di mana mereka dapat berkembang dan mencapai potensi penuh mereka. </p> -->
-                        <p style="align-item: center; justify-content:center; padding-top:70px;"> BrainyBuddies, kami menyediakan pendekatan holistik terhadap pendidikan yang mencakup keunggulan akademik, pemikiran kritis, dan pengembangan pribadi. Program kami dirancang untuk menginspirasi dan menantang siswa, membantu mereka menjadi individu yang percaya diri dan mampu.</p>
+                        <p style="align-items: center; justify-content:center; padding-top:70px;"> BrainyBuddies, kami menyediakan pendekatan holistik terhadap pendidikan yang mencakup keunggulan akademik, pemikiran kritis, dan pengembangan pribadi. Program kami dirancang untuk menginspirasi dan menantang siswa, membantu mereka menjadi individu yang percaya diri dan mampu.</p>
                         <ul class="list-unstyled">
                             <li><i class="fa fa-arrow-circle-right pr-10 colored"></i> Menumbuhkan kecintaan pada pembelajaran</li>
                             <li><i class="fa fa-arrow-circle-right pr-10 colored"></i> Mendorong pemikiran kritis</li>
@@ -170,7 +164,7 @@ include "views/user/partials/head.php";
                 <div class="row">
                     <div class="col-md-12">
                         <div class="aligncenter">
-                            <h2 class="aligncenter">Our Events</h2>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quae porro consequatur aliquam, incidunt eius magni provident, doloribus omnis minus temporibus perferendis nesciunt quam repellendus nulla nemo ipsum odit corrupti consequuntur possimus.
+                            <h2 class="aligncenter">Our Teacher</h2>Belajar bersama para guru baik hati dan menggemaskan kita.
                         </div>
                         <br>
                     </div>
@@ -178,7 +172,7 @@ include "views/user/partials/head.php";
                 <div class="row">
                     <div class="col-md-4">
                         <div class="post3">
-                            <img src="src/img/e1.png" alt="">
+                            <img src="src/img/img6.jpg" alt="">
                             <a href="#">
                                 <time datetime="2019-03-01">
                                     <span class="year">2019</span>
@@ -190,7 +184,7 @@ include "views/user/partials/head.php";
                     </div>
                     <div class="col-md-4">
                         <div class="post3">
-                            <img src="src/img/e2.png" alt="">
+                            <img src="src/img/img7.jpg" alt="">
                             <a href="#">
                                 <time datetime="2019-03-01">
                                     <span class="year">2019</span>
@@ -202,7 +196,7 @@ include "views/user/partials/head.php";
                     </div>
                     <div class="col-md-4">
                         <div class="post3">
-                            <img src="src/img/e3.png" alt="">
+                            <img src="src/img/img6.jpg" alt="">
                             <a href="#">
                                 <time datetime="2019-03-01">
                                     <span class="year">2019</span>
