@@ -72,7 +72,7 @@ include "views/user/partials/head.php";
 									<div class="panel-heading">
 										<h4 class="panel-title">
 											<a data-toggle="collapse" data-parent="#accordion-alt3" href="#collapseOne-alt3">
-												<i class="fa fa-angle-right"></i> Pendekatan Pembelajaran Personal :
+												<i class="fa fa-angle-right"></i> Pembelajaran Personal :
 											</a>
 										</h4>
 									</div>
