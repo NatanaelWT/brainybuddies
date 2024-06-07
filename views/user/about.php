@@ -123,15 +123,9 @@ include "views/user/partials/head.php";
 Kami menyediakan metode pembelajaran yang disesuaikan dengan kebutuhan dan gaya belajar unik setiap anak, memastikan mereka mendapatkan pengalaman belajar yang efektif dan menyenangkan.</a></li>
 								<li><a href="#">Konten Berkualitas Tinggi
 Konten pendidikan kami dirancang dan dikembangkan oleh para ahli di bidangnya, memastikan materi yang disajikan akurat, relevan, dan selalu diperbarui sesuai perkembangan terbaru.</a></li>
-								<li><a href="#">Dukungan dan Bimbingan Penuh
-Kami tidak hanya menyediakan konten berkualitas, tetapi juga dukungan dan bimbingan penuh untuk membantu anak mengatasi setiap tantangan belajar, memastikan mereka selalu mendapatkan bantuan yang dibutuhkan untuk sukses.</a></li>
 								<li><a href="#">Fleksibilitas dan Kemudahan Akses
 Dengan teknologi canggih, anak dapat belajar kapan saja dan di mana saja, memberikan fleksibilitas yang mendukung gaya hidup modern dan kebutuhan belajar anak.</a></li>
-								<li><a href="#">Peningkatan Prestasi Akademik
-Pendekatan kami yang komprehensif telah terbukti membantu banyak siswa meningkatkan prestasi akademik mereka, memberikan mereka kepercayaan diri dan keterampilan yang dibutuhkan untuk sukses di masa depan.</a></li>
-								<li><a href="#">Teknologi Canggih
-Dengan memanfaatkan teknologi terbaru, platform kami menawarkan pembelajaran interaktif yang menarik dan mudah diakses kapan saja dan di mana saja, mendukung proses belajar yang lebih baik.</a></li>
-							</ul>
+								</ul>
 						</div>
 
 					</div>
