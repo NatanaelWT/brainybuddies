@@ -191,43 +191,39 @@ include "views/user/partials/head.php";
 					</div>
 
 					<!-- Our team ends -->
-
-
 				</div>
-
-			</div>
-		</section>
-		<section id="clients">
-			<div class="container">
-				<div class="row">
-					<div class="col-md-12">
-						<div class="aligncenter">
-							<h2 class="aligncenter">Penempatan Kampus</h2>Kami, mahasiswa Informatika semester 4, mengembangkan website ini sebagai tugas besar untuk memperkuat kesiapan kerja sesama mahasiswa. Proyek ini mengintegrasikan peluang penempatan kerja dengan kebutuhan industri, mempersiapkan mahasiswa untuk sukses di dunia kerja yang kompetitif.
-						</div>
-						<br />
-					</div>
-				</div>
-				<div class="row">
-					<div class="col-md-2 col-sm-4 client">
-						<div class="img client1"></div>
-					</div>
-					<div class="col-md-2 col-sm-4 client">
-						<div class="img client2"></div>
-					</div>
-					<div class="col-md-2 col-sm-4 client">
-						<div class="img client3"></div>
-					</div>
-					<div class="col-md-2 col-sm-4 client">
-						<div class="img client1"></div>
-					</div>
-					<div class="col-md-2 col-sm-4 client">
-						<div class="img client2"></div>
-					</div>
-					<div class="col-md-2 col-sm-4 client">
-						<div class="img client3"></div>
-					</div>
-				</div>
-			</div>
+				<section id="clients">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="aligncenter">
+                    <h2 class="aligncenter">Penempatan Kampus</h2>Kami, mahasiswa Informatika semester 4, mengembangkan website ini sebagai tugas besar untuk memperkuat kesiapan kerja sesama mahasiswa. Proyek ini mengintegrasikan peluang penempatan kerja dengan kebutuhan industri, mempersiapkan mahasiswa untuk sukses di dunia kerja yang kompetitif.
+                </div>
+                <br />
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-2 col-sm-4 client">
+                <img src="src/img/1.png" alt="Client 1">
+            </div>
+            <div class="col-md-2 col-sm-4 client">
+                <img src="src/img/2.png" alt="Client 2">
+            </div>
+            <div class="col-md-2 col-sm-4 client">
+                <img src="src/img/3.png" alt="Client 3">
+            </div>
+            <div class="col-md-2 col-sm-4 client">
+                <img src="src/img/4.png" alt="Client 4">
+            </div>
+            <div class="col-md-2 col-sm-4 client">
+                <img src="src/img/5.jfif" alt="Client 5">
+            </div>
+            <div class="col-md-2 col-sm-4 client">
+                <img src="src/img/6.png" alt="Client 6">
+            </div>
+        </div>
+    </div>
+</section>	
 		</section>
 		<?php
 		include "views/user/partials/footer.php";
