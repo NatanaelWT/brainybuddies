@@ -100,28 +100,14 @@ include "views/user/partials/head.php";
 								<div class="panel">
 									<div class="panel-heading">
 										<h4 class="panel-title">
-											<a data-toggle="collapse" data-parent="#accordion-alt3" href="#collapseThree-alt3">
-												<i class="fa fa-angle-right"></i> Teknologi Canggih :
-											</a>
-										</h4>
-									</div>
-									<div id="collapseThree-alt3" class="panel-collapse collapse">
-										<div class="panel-body">
-											Dengan memanfaatkan teknologi terbaru, platform kami menawarkan pembelajaran interaktif yang menarik dan mudah diakses kapan saja dan di mana saja, mendukung proses belajar yang lebih baik.
-										</div>
-									</div>
-								</div>
-								<div class="panel">
-									<div class="panel-heading">
-										<h4 class="panel-title">
 											<a data-toggle="collapse" data-parent="#accordion-alt3" href="#collapseFour-alt3">
-												<i class="fa fa-angle-right"></i> Dukungan dan Bimbingan Penuh :
+												<i class="fa fa-angle-right"></i> Quiz Dan Pelatihan  :
 											</a>
 										</h4>
 									</div>
 									<div id="collapseFour-alt3" class="panel-collapse collapse">
 										<div class="panel-body">
-											Kami tidak hanya menyediakan konten berkualitas, tetapi juga dukungan dan bimbingan penuh untuk membantu anak mengatasi setiap tantangan belajar, memastikan mereka selalu mendapatkan bantuan yang dibutuhkan untuk sukses.
+											Kami tidak hanya menyediakan konten berkualitas, tetapi kami juga memberikan bimbingan penuh berupa quiz untuk membantu anak mengatasi tantangan belajar, memastikan mereka selalu mendapatkan bantuan yang dibutuhkan untuk anak.
 										</div>
 									</div>
 								</div>
