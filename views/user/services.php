@@ -8,8 +8,22 @@ include "views/user/partials/head.php";
         <?php
         include "views/user/partials/header.php";
         ?>
-        <!-- end header -->
         <section id="inner-headline">
+            <div class="container">
+                <div class="row">
+                    <!-- Gambar di samping kiri -->
+                    <div class="col-lg-3">
+                        <img src="src/img/img10.png" alt="Gambar Kiri" style="width:55%; float: left;">
+                    </div>
+                    <div class="col-lg-6 text-center">
+                        <h2 class="pageTitle">Services</h2>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- end header -->
+        <!-- <section id="inner-headline">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
@@ -17,7 +31,7 @@ include "views/user/partials/head.php";
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
         <section id="content">
             <div class="container content">
                 <!-- Service Blcoks -->
