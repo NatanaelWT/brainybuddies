@@ -151,7 +151,7 @@ include "views/user/partials/head.php";
 									<!-- Name -->
 									<h4>Yulan Tamariska Lepur</h4>
 									<span class="deg"><strong>1203220022</strong></span>
-									<p>Yulan Tamariska, mahasiswi kontributor di BrainyBuddies, menghadirkan materi Bahasa Indonesia dan IPS dengan metode inovatif. Dedikasinya memastikan pengalaman belajar yang efektif dan menyenangkan bagi setiap siswa, dengan konten yang akurat dan relevan.</p>
+									<p>Yulan Tamariska, mahasiswi kontributor di BrainyBuddies, memberikan materi Bahasa Indonesia dan IPS.</p>
 								</div>
 							</div>
 							<div class="col-md-3 col-sm-6">
@@ -162,7 +162,7 @@ include "views/user/partials/head.php";
 									<!-- Name -->
 									<h4>Yuandytha Fitria Ade Putri Sujiana</h4>
 									<span class="deg"><strong>1203220120</strong></span>
-									<p>Yuandytha, mahasiswi kontributor di BrainyBuddies, mengembangkan materi IPA dan PPKN dengan metode inovatif. Dedikasinya memastikan pengalaman belajar yang efektif dan menyenangkan, dengan konten yang akurat dan relevan bagi anak-anak.</p>
+									<p>Yuandytha, mahasiswi kontributor di BrainyBuddies, memberikan materi IPA dan PPKN. </p>
 								</div>
 							</div>
 							<div class="col-md-3 col-sm-6">
@@ -173,7 +173,7 @@ include "views/user/partials/head.php";
 									<!-- Name -->
 									<h4>Tsalits Sabila Fatah</h4>
 									<span class="deg"><strong>1203220135</strong></span>
-									<p>Tsalits Sabila Fatah, mahasiswi kontributor di BrainyBuddies, mengembangkan materi Matematika dan Bahasa Inggris. Dedikasinya memastikan pengalaman belajar efektif dan menyenangkan, dengan konten yang akurat dan mudah dipahami oleh anak-anak.</p>
+									<p>Tsalits Sabila Fatah, mahasiswi kontributor di BrainyBuddies, memberikan materi Matematika dan Bahasa Inggris.</p>
 								</div>
 							</div>
 							<div class="col-md-3 col-sm-6">
@@ -184,7 +184,7 @@ include "views/user/partials/head.php";
 									<!-- Name -->
 									<h4>Natanael Wijaya Tiono</h4>
 									<span class="deg"><strong>1203220140</strong></span>
-									<p>Natanael Wijaya Tiono, mahasiswa krusial dalam pengelolaan database dan infrastruktur web di BrainyBuddies, mengoptimalkan teknologi informasi. Dedikasinya mendukung pengalaman belajar interaktif dan kontribusinya penting dalam visi pendidikan yang lebih baik.</p>
+									<p>Natanael Wijaya Tiono, mahasiswa krusial dalam pengelolaan database dan infrastruktur web di BrainyBuddies.</p>
 								</div>
 							</div>
 						</div>
