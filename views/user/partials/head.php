@@ -8,7 +8,7 @@
   <meta name="description" content="" />
   <!-- <meta name="author" content="http://webthemez.com" /> -->
   <!-- css -->
-  <?php if ($link[2] == "course" || $link[2] == "edit" || $link[2] == "quiz") {
+  <?php if ($link[2] == "course" || $link[2] == "edit" || $link[2] == "quiz" || $link[2] == "editquiz") {
   ?>
     <link href="../src/css/bootstrap.min.css" rel="stylesheet" />
     <link href="../src/css/fancybox/jquery.fancybox.css" rel="stylesheet">

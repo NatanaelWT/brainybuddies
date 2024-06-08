@@ -49,6 +49,16 @@ switch ($link[1].$link[2]) {
         require "views/user/add.php";
         break;
         }
+    case $link[1] . 'editquiz':
+        if (isset($_SESSION['email'])) {
+        require "views/user/editquiz.php";
+        break;
+        }
+    case $link[1] . 'delete':
+        if (isset($_SESSION['email'])) {
+        require "views/user/delete.php";
+        break;
+        }
     case $link[1] . 'quiz':
         require "views/user/quiz.php";
         break;
