@@ -37,7 +37,7 @@ include "views/user/partials/head.php";
                 <!-- Service Blcoks -->
                 <div class="row service-v1 margin-bottom-40">
                     <div class="col-md-4 md-margin-bottom-40">
-                        <img class="img-responsive" src="src/img/img11.jng" alt="">
+                        <img class="img-responsive" src="src/img/img11.png" alt="">
                         <h2>Pengembangan materi pembelajaran</h2>
                         <p>Kami menyediakan konten atau video pembelajaran yang di kembangkan untuk anak-anak pada masa kini, dengan memfokuskan pada pembelajaran interaktif yang menyenangkan dan membangkitkan semangat anak untuk belajar.</p>
                     </div>
