@@ -9,6 +9,11 @@ function readWhere($table, $name, $atribut){
     $hasil = mysqli_query($conn, "SELECT * FROM ".$table." WHERE ".$name." = '".$atribut."'");
     return $hasil;
 }
+function delete($table, $name, $atribut){
+    include "function/conn.php";
+    $hasil = mysqli_query($conn, "DELETE FROM ".$table." WHERE ".$name." = '".$atribut."'");
+    return $hasil;
+}
 function readWhere2($table, $name, $atribut, $name2, $atribut2){
     include "function/conn.php";
     $hasil = mysqli_query($conn, "SELECT * FROM ".$table." WHERE ".$name." = '".$atribut."' AND ".$name2." = '".$atribut2."'");
@@ -23,6 +28,11 @@ function insert5($table, $name, $atribut, $name2, $atribut2, $name3, $atribut3, 
 function update2($table, $name, $atribut, $name2, $atribut2, $name3, $atribut3){
     include "function/conn.php";
     $hasil = mysqli_query($conn, "UPDATE ".$table." SET ".$name2." = '".$atribut2."', ".$name3." = '".$atribut3."' WHERE ".$name." = '".$atribut."';");
+    return $hasil;
+}
+function update($table, $name, $atribut, $name2, $atribut2){
+    include "function/conn.php";
+    $hasil = mysqli_query($conn, "UPDATE ".$table." SET ".$name2." = '".$atribut2."' WHERE ".$name." = '".$atribut."';");
     return $hasil;
 }
 function update4($table, $name, $atribut, $name2, $atribut2, $name3, $atribut3, $name4, $atribut4, $name5, $atribut5){

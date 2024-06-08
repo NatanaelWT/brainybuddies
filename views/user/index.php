@@ -1,6 +1,98 @@
 <?php
+
 include "views/user/partials/head.php";
 ?>
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>3D Slider</title>
+    <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
+    <style>
+        .swiper-container {
+            width: 100%;
+            height: 100%;
+            max-width: 600px;
+            /* Ensuring the slider doesn't exceed this width */
+            margin: 0 auto;
+            /* Center the slider */
+        }
+
+        .swiper-slide {
+            text-align: center;
+            font-size: 18px;
+            background: #fff;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            /* Teks di bawah gambar */
+        }
+
+        .swiper-slide img {
+            width: 100%;
+            height: auto;
+            max-width: 300px;
+            /* Ensuring the image doesn't exceed this width */
+            max-height: 300px;
+            /* Ensuring the image doesn't exceed this height */
+            object-fit: cover;
+            padding: 10px;
+        }
+
+        /* Ensuring the page doesn't shift due to vertical scrollbar */
+        html {
+            overflow-y: scroll;
+        }
+
+        /* Tambahkan gaya CSS berikut */
+        body,
+        html {
+            overflow-x: hidden;
+            /* Mencegah pengguna menggeser ke kanan */
+        }
+
+        .swiper-container {
+            width: 100%;
+            height: 100%;
+            max-width: 600px;
+            /* Ensuring the slider doesn't exceed this width */
+            margin: 0 auto;
+            /* Center the slider */
+        }
+
+        .swiper-slide {
+            text-align: center;
+            font-size: 18px;
+            background: #fff;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            /* Teks di bawah gambar */
+        }
+
+        .swiper-slide img {
+            width: 100%;
+            height: auto;
+            max-width: 300px;
+            /* Ensuring the image doesn't exceed this width */
+            max-height: 300px;
+            /* Ensuring the image doesn't exceed this height */
+            object-fit: cover;
+            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);
+            /* Menambahkan bayangan hitam */
+        }
+
+        /* Ensuring the page doesn't shift due to vertical scrollbar */
+        html {
+            overflow-y: scroll;
+        }
+    </style>
+</head>
 
 <body>
     <div id="wrapper" class="home-page">
@@ -17,9 +109,9 @@ include "views/user/partials/head.php";
                     <li>
                         <img src="src/img/slides/6.jpg" alt="" />
                         <div class="flex-caption container">
-                            <img src="src/img/img8.png" alt="" style="width:12%; float: left; margin-right: 10px; ">
-                            <h3>SELAMAT DATANG..</h3>
-                            <p>Di Brainybuddies sebagai media pembelajaran yang menyenangkan</p>
+                            <img src="src/img/img8.png" alt="" style="width:12%; float: left; margin-right: 10px;">
+                            <h3>HALLO TEMAN-TEMAN...</h3>
+                            <p>Selamat Datang Di Brainybuddies </p>
                         </div>
                     </li>
                     <li>
@@ -27,29 +119,28 @@ include "views/user/partials/head.php";
                         <div class="flex-caption container">
                             <img src="src/img/img4.png" alt="" style="width:16%; float: right; margin-left: 10px;">
                             <h3>Selamat Belajar...</h3>
-                            <p>dengan berbagai mata pelajaran untuk menunjang pembelajaran kalian</p>
+                            <p>dengan berbagai mata pelajaran yang menyenangkan</p>
                         </div>
                     </li>
                 </ul>
             </div>
             <!-- end slider -->
-
         </section>
+
         <section class="txt-area">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="aligncenter">
-                            <h1 class="aligncenter">Our Courses</h1>Media Pembelajaran untuk meningkatkan keterampilan siswa dalam berbagai bidang pengetahuan. Kami menyediakan kursus-kursus yang dirancang untuk membantu mencapai tujuan belajar siswa.
+                            <h1 class="aligncenter">Our Courses</h1>
+                            <p>Media Pembelajaran untuk meningkatkan keterampilan siswa dalam berbagai bidang pengetahuan. Kami menyediakan kursus-kursus yang dirancang untuk membantu mencapai tujuan belajar siswa.</p>
                         </div>
-
                     </div>
                 </div>
             </div>
         </section>
 
         <section id="content">
-
             <div class="container">
                 <div class="row">
                     <div class="features">
@@ -126,7 +217,6 @@ include "views/user/partials/head.php";
                         </div><!--/.col-md-4-->
                     </div>
                 </div>
-
             </div>
         </section>
 
@@ -146,7 +236,6 @@ include "views/user/partials/head.php";
                         <div class="space"></div>
                     </div>
                     <div class="col-md-6">
-                        <!-- <p>BrainyBuddies berdedikasi untuk mengasuh pikiran cerdas dan menumbuhkan kecintaan pada pembelajaran. Para siswa kami adalah inti dari semua yang kami lakukan, dan kami bangga dengan prestasi dan antusiasme mereka terhadap pendidikan. Kami berusaha menciptakan lingkungan di mana mereka dapat berkembang dan mencapai potensi penuh mereka. </p> -->
                         <p style="align-items: center; justify-content:center; padding-top:70px;"> BrainyBuddies, kami menyediakan pendekatan holistik terhadap pendidikan yang mencakup keunggulan akademik, pemikiran kritis, dan pengembangan pribadi. Program kami dirancang untuk menginspirasi dan menantang siswa, membantu mereka menjadi individu yang percaya diri dan mampu.</p>
                         <ul class="list-unstyled">
                             <li><i class="fa fa-arrow-circle-right pr-10 colored"></i> Menumbuhkan kecintaan pada pembelajaran</li>
@@ -156,56 +245,66 @@ include "views/user/partials/head.php";
                         </ul>
                     </div>
                 </div>
-
             </div>
         </section>
+
         <section id='events'>
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
                         <div class="aligncenter">
-                            <h2 class="aligncenter">Our Teacher</h2>Belajar bersama para guru baik hati dan menggemaskan kita.
+                            <h2 class="aligncenter">Our Teacher</h2>Belajar bersama para guru yang baik hati dan menggemaskan kita.
                         </div>
                         <br>
                     </div>
                 </div>
-                <div class="row">
-                    <div class="col-md-4">
-                        <div class="post3">
-                            <img src="src/img/img6.jpg" alt="">
-                            <a href="#">
-                                <time datetime="2019-03-01">
-                                    <span class="year">2019</span>
-                                    <span class="month">Feb</span>
-                                </time>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipis.</p>
-                            </a>
+                <div class="swiper-container">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide">
+                            <img src="src/img/guru1.jpg" alt="">
+                            <div>
+                                <p>Anindya Meyla</p>
+                                <p>Matematika</p>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <img src="src/img/guru2.jpg" alt="">
+                            <div>
+                                <p>Tom David</p>
+                                <p>IPA</p>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <img src="src/img/guru3.jpg" alt="">
+                            <div>
+                                <p>Firdaus Yunus</p>
+                                <p>IPS</p>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <img src="src/img/guru4.jpg" alt="">
+                            <div>
+                                <p>Ainiyah Dini</p>
+                                <p>PPKN</p>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <img src="src/img/guru5.jpg" alt="">
+                            <div>
+                                <p>Raihan Matt</p>
+                                <p>Bahasa Inggris</p>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <img src="src/img/guru6.jpg" alt="">
+                            <div>
+                                <p>Syawaliyah</p>
+                                <p>Bahsa Indonesia</p>
+                            </div>
                         </div>
                     </div>
-                    <div class="col-md-4">
-                        <div class="post3">
-                            <img src="src/img/img7.jpg" alt="">
-                            <a href="#">
-                                <time datetime="2019-03-01">
-                                    <span class="year">2019</span>
-                                    <span class="month">March</span>
-                                </time>
-                                <p>Apsum dolor sit amet, consectetur adipisdslif.</p>
-                            </a>
-                        </div>
-                    </div>
-                    <div class="col-md-4">
-                        <div class="post3">
-                            <img src="src/img/img6.jpg" alt="">
-                            <a href="#">
-                                <time datetime="2019-03-01">
-                                    <span class="year">2019</span>
-                                    <span class="month">April</span>
-                                </time>
-                                <p>Dolor sit amet, consectetur adipisic indfeft</p>
-                            </a>
-                        </div>
-                    </div>
+                    <!-- Add Pagination -->
+                    <div class="swiper-pagination"></div>
                 </div>
             </div>
         </section>
@@ -217,3 +316,19 @@ include "views/user/partials/head.php";
     <?php
     include "views/user/partials/foot.php";
     ?>
+    <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+    <script>
+        var swiper = new Swiper('.swiper-container', {
+            pagination: {
+                el: '.swiper-pagination',
+                clickable: true,
+            },
+            autoplay: {
+                delay: 3000, // Adjust the delay time as needed
+                disableOnInteraction: false,
+            },
+        });
+    </script>
+</body>
+
+</html>
