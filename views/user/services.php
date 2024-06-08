@@ -37,17 +37,17 @@ include "views/user/partials/head.php";
                 <!-- Service Blcoks -->
                 <div class="row service-v1 margin-bottom-40">
                     <div class="col-md-4 md-margin-bottom-40">
-                        <img class="img-responsive" src="src/img/service1.jpg" alt="">
+                        <img class="img-responsive" src="src/img/img11.jng" alt="">
                         <h2>Pengembangan materi pembelajaran</h2>
                         <p>Kami menyediakan konten atau video pembelajaran yang di kembangkan untuk anak-anak pada masa kini, dengan memfokuskan pada pembelajaran interaktif yang menyenangkan dan membangkitkan semangat anak untuk belajar.</p>
                     </div>
                     <div class="col-md-4">
-                        <img class="img-responsive" src="src/img/service2.jpg" alt="">
+                        <img class="img-responsive" src="src/img/img12.jpeg" alt="">
                         <h2>Pengembangan Aplikasi Website</h2>
                         <p>Kami mengembangkan aplikasi pembelajaran yang dapat diakses melalui website, sehingga anak-anak dapat belajar kapan saja dan di mana saja. Aplikasi website kami dirancang dengan antarmuka yang ramah anak dan penuh warna untuk menarik minat mereka.</p>
                     </div>
                     <div class="col-md-4 md-margin-bottom-40">
-                        <img class="img-responsive" src="src/img/service3.jpg" alt="">
+                        <img class="img-responsive" src="src/img/img13.jpeg" alt="">
                         <h2>Desain Responsif</h2>
                         <p>Kami memastikan semua materi dan aplikasi kami memiliki desain responsif yang dapat diakses dengan mudah di berbagai perangkat. Dengan desain yang adaptif, anak-anak dapat belajar dengan nyaman, baik melalui komputer, tablet, maupun ponsel pintar.</p>
                     </div>
