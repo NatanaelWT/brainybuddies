@@ -3,7 +3,7 @@ include "function/crud.php";
 if ($_SERVER['REQUEST_METHOD'] == "POST") {
     include "function/func.php";
     $data = $_POST['soal0']."|".$_POST['option0a']."|".$_POST['option0b']."|".$_POST['option0c']."|".$_POST['option0d']."|".$_POST['radio0'].";".$_POST['soal1']."|".$_POST['option1a']."|".$_POST['option1b']."|".$_POST['option1c']."|".$_POST['option1d']."|".$_POST['radio1'].";".$_POST['soal2']."|".$_POST['option2a']."|".$_POST['option2b']."|".$_POST['option2c']."|".$_POST['option2d']."|".$_POST['radio2'].";".$_POST['soal3']."|".$_POST['option3a']."|".$_POST['option3b']."|".$_POST['option3c']."|".$_POST['option3d']."|".$_POST['radio3'].";".$_POST['soal4']."|".$_POST['option4a']."|".$_POST['option4b']."|".$_POST['option4c']."|".$_POST['option4d']."|".$_POST['radio4'];
-    update("materi", "nama_materi", $link[3], "quiz", $data);
+    update("materi", "nama_materi", str_replace("%20", " ", $link[3]), "quiz", $data);
 }
 include "views/user/partials/head.php";
 $lin = explode("=", str_replace("%20", " ", $link[3]));

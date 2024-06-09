@@ -127,7 +127,7 @@ $temp2 = explode(";", $data['quiz']);
                                 </div><br>
                                 <h2 class="aligncenter" id="nilai" style="padding-top: 10px;"></h2>
                                 <br>
-                                <button class="btn-success">Lihat Jawaban</button>
+                                <!-- <button class="btn-success">Lihat Jawaban</button> -->
                                 <button onclick="back()" class="btn-primary">Back To Course</button>
                             </div>
                         </div>
